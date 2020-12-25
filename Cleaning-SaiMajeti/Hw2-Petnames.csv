@@ -1,0 +1,1913 @@
+"What kind of pet is this (Dog, Cat, Bird, Other)","Pet's Full Name (you don't have to include your last name. Think ""Winston Churchill"" and not ""Winston Churchill MYLASTNAME"")","Pet's everyday name (e.g. ""Church"")",Pet's age,Pet's breed (if applicable)
+Dog,Widget,Widget,5,Miniature Dachshund
+Dog,Stella Bo Bella,Stella,6.5,Mutt
+Cat,Meryl Streep,Merrill,8,
+Dog,Tilly,Tills,13,Labrador
+Cat,Pumpkin,Pumpkin,12,
+Dog,Peter Peter Pumpkin Eater,Petey,5,Pit bull
+Cat,Jacques,Jacques,12,
+Dog,Remy,Rem,1,Unknown
+Dog,Oreo,Oreo,7,Some Hybrid
+Dog,Ljus  (Swedish word for light),Ljus ,0.29,Golden Retriever
+Dog,Bambi,Bambs,3,Unknown
+Cat,Marie Curie,Marie,3,
+Cat,Clarence,Clarence,12,Russian Blue
+Dog,Layla â€˜The Tankâ€™,Layla,3,Pit bull
+Cat,Amber,Ambs,10,Tortoise shell
+Dog,Benny and the Jets,Ben,1,Mastiff
+Dog,Milo,Milo,7,Bichon Frise
+Dog,Mocha,Mocha,3,Pit bull
+Dog,Shadow,Shadow ,15,Golden Retriever
+Cat,Little Bit,Skittles,10,Tabby
+Dog,Luna,Luna,1,Great Pyrenees
+Cat,Garrison,Garrison ,9,Russian Blue
+Dog,Cody,Baby,13,Some Hybrid
+Unknown,, Pookie,Unknown,
+Hamster,Hammy,Ham,1,Russian Dwarf Hamster
+Cat,Zoey,Zoey,13,Cat
+Dog,Oatmeal,Oatmeal,0.58,Golden Retriever
+Dog,Ginger,Nugget ,10,Chihuahua
+Cat,Lucy,Lucy,4,Russian Blue
+Dog,Starbuck Louise,Starbuck,4,Goldendoodle
+Dog,Mocha Antoinette,Mocha,7,Mutt
+Dog,Oscar,Oscar ,10,Some Hybrid
+Cat,Serena,Mouse Pie,17,Domestic Long hair
+Cat,Maxine Waters,Maxine,4,
+Dog,Magnolia Mae,Noli,2.5,Great Pyrenees
+Dog,George Cooper,Georgie,2,Golden Retriever
+Dog,Cayenne,Cayenne,8,German Shepherd
+Cat,Pip,Pip,11,Tuxedo
+Dog,Olive Oil,Olive,2,Australian Shepherd
+Rabbit,Iggy and Ziggy ,Igs and Zigs,3,Lop and angora
+Dog,Brook,Brookie,7,Golden Retriever
+Dog,Sparkie,Spark,4,Mutt
+Unknown,, Sparkie,Unknown,
+Unknown,, sparkle,Unknown,
+Dog,Max,Maxie,16,Cairn Terrier
+Dog,Howard,Howie,10,Some Hybrid
+Cat,Samantha Bee,Sam,3,Tuxedo
+Dog,Ella Fitzgerald,Ella,12,Heinz 57
+Cat,Chanel,Teeny,6.5,
+Fish,Commander Ambrose,The Commander,0.8,Betta fish
+Dog,Josephine Bakes,Josie,5,Some Hybrid
+Dog,Lennie,Lennie,2,Treeing Tennessee Brindle
+Cat,Obsidian Jazz Paws,OJP,1,Feral
+Cat,Scotty ,Scotty ,8,Domestic shorthair
+Cat,Macallan,Mac,8,
+Dog,Cody James,Buddy,1.5,Golden Retriever
+Dog,Jake,Jake,2,Golden Retriever
+Cat,Katie ,Boo,9,Tuxedo moggy
+Irrelevant,damn,it,2,Skylake
+Dog,Gail,Gail,3,Treeing Tennessee Brindle
+Hamster,Bella ,Bella,2,Russian Dwarf Hamster
+Cat,June Bug,June Bug,5,
+Dog,Lucky,Luck,3,Jack Russell
+Dog,---, Luckboy,Unknown,Beagle
+Unknown,, Luck duck,Unknown,
+Dog,Darcy,Darcy,3,Working cocker spaniel
+Cat,Neko,Neko,6,Domestic shorthair
+Cat,,Cat,Unknown,
+Cat,,Cat,Unknown,
+Cat,Maisy,Maisy,7,
+Dog,Luke Anakin,Luke,9,Golden Retriever
+Dog,Sadie,Sadie Pot Pie,10,Some Hybrid
+Dog,Hazel Nut,Hazel,3,Australian Shepherd
+Cat,Mongoose,Goosey,1.9,
+Cat,Flerf,Bab,16,Tortie
+Dog,Bourbon,Bourbon,3,Some Hybrid
+Dog,Riley,Smiley Riley,13,Golden Retriever
+Cat,Murphy,Murph ,13,Domestic shorthair
+Dog,Mr. Nubs,Mr. Nubs,16,Corgi
+Cat,Mackerel,Mack,1.9,
+Cat,Regis,"Regis (or ""little asshole"")",0.8,
+Cat,Laetynne Marah,Lae lae,7,Siamese
+Cat,Callie,Callie,15,Domestic shorthair
+Dog,Bentley,Bentley boy,3,Australian labradoodle
+Cat,Crumb Bun,Bo Bo,9,Tuxedo garbage cat
+Dog,Fenway,Fenway,6,Boston terrier
+Dog,Benelli,Name,3,Labrador
+Turtle,Lenny,Lenny,12,
+Dog,Washington the Destroyer,Wash,6.5,Labrador
+Cat,Otto,Otto,16,
+Dog,Philomenos,Philo,9,Portuguese Water Dog
+Unknown,, Phil,Unknown,
+Unknown,, phi phi,Unknown,
+Dog,Stampy Wiggles,Stampy,10,Goldendoodle
+Dog,Jasmine,Jaz ,5,Golden Retriever
+Dog,Emma,Puppy,1,Labrador
+Dog,Winston,Wintin,4,Wire-haired mutt
+Dog,Torchenay Be Cool,Max,13,Beagle
+Cat,Petunia Marie,Tooney,7,Domestic shorthair
+Dog,Brutus,Brutus ,7,Labrador
+Cat,Louis,LouLou,4.5,Black cat
+Cat,Lilah May,Lilah,12,Domestic shorthair
+Dog,Lucu,Puppy,7,Labrador
+Dog,Mosephine,Mo,1,Poodle
+Dog,Abegeweit,Abi (Abby),16,Some Hybrid
+Dog,Kramer,Kray Kray,12,Golden Retriever
+Bird,Coco Moe,Coco,15,Cockatiel
+Cat,Apollo,Beeper,1,
+Dog,Rusty,Wusty,5,Some Hybrid
+Dog,Demi,Dems,6,Some Hybrid
+Dog,---, demi dog,Unknown,basenji
+Dog,---, the queen,Unknown,Australian Cattle Dog
+Unknown,,,Unknown,Rescue
+Dog,Alfredog,Alfie,11,Some Hybrid
+Bunny,Professor Nibblesworth Bunnypants,Nibbles,6,Netherland Dwarf
+Dog,Shorty Do-Op,Shorty,15,Mutt
+Dog,Penny,Penny,3,Australian Shepherd
+Dog,Tuxedo,Tux,1.5,Schnauzer
+Dog,Sally,Sally,7,Golden Retriever
+Dog,Lola,Lola,6,Some Hybrid
+Cat,Noodle,Noodle,4,Domestic medium hair
+Dog,Gustav,Goober,10,German Shepherd
+Hamster,Charlie,Charlie ,15,Syrian
+Dog,Poppy Sue Galushka Clementine,Poppy,4,Treeing Walker Coonhound
+Dog,Duke,Duke,3,Australian Shepherd
+Dog,Millie,Mills,7,Jack Russell Terrier
+Dog,Sir Winston of Weston,Winston ,10,Golden Retriever
+Unknown,, Winnie,Unknown,
+Cat,Bucky,Bucks,2,Norwegian Forest cat
+Dog,Angus OgDog Dogga McDuff,Angus,13,West Highland Terrier
+Cat,Spot,Spotty Bear,4,Domestic shorthair
+Cat,Cookie,Cooks,2,Ragdoll
+Dog,Lady,Doofus,6,Labrador
+Dog,Maggie Peaches,Maggie,13,Bichon Poodle
+Cat,Amelia,Amelita,2,
+Dog,Camembert,Cami,5,Bernese Mountain Dog
+Dog,Shadow,Shadow,3,Saluki
+Dog,Archer,archer,3,Golden Retriever
+Dog,Robbie,robz,15,Whippet
+Cat,Noah,Noah,2,
+Unknown,Penny,Pen,4,
+Cat,Lovey Cat,Lovey,18,
+Dog,Roxy,Roxy,8,Pit bull
+Dog,Ashton Sebastian,Ash,9,Some Hybrid
+Dog,Maximum,Max,10,Pug
+Dog,Rosalind Pearl,Rosie,5,Some Hybrid
+Bunny,Lena,Lena,8,dwarf rabbit
+Hamster,Beauxbaton,Beau,2.5,Winter white
+Dog,Chyna,Chyna,16,Some Hybrid
+Dog,Sadie,Sadie,4,Cockapoo
+Dog,Flynn,Flynn,0.91,Corgi
+Cat,Felicity Louise,Flick,4,Domestic shorthair
+Fish,James Pond,James,5,Goldfish
+Cat,Mars,Mars,8,Domestic shorthair
+Dog,Loki,Loki,3,Unknown
+Cat,Millie ,Mill,13,Domestic shorthair
+Dog,Trixie,Trix,3,Some Hybrid
+Dog,Birdy,Birdy ,4,Pomeranian
+Cat,Charlotte Wallace,Chuck,8,Cat
+Cat,Thumper Dumper Bumble Butt,Thumper,16,Domestic shorthair
+Dog,Vince,Vincie ,11,Labrador
+Dog,Cobert,Cob ,2,Dalmatian
+Fish,Little Prince,LP,2,Betta fish
+Dog,Jack Daniel,Jackie,3,Labrador
+Dog,Crinkle,Crinkle,7,Mongrel
+Dog,Maisy Lynn Marie,Mimsy,6,Some Hybrid
+Dog,Beemer,Beemo,7,Aussie doodle
+Guinea Pig,Rosencrantz WGP,Rosie,3,
+Cat,Michelin ,Michelin,14,Cat
+Cat,,,Unknown,he's a cat
+Unknown,,,Unknown,Unknown
+Dog,Mac,Mac,5,Some Hybrid
+Dog,Maximillion Taxi,Max,9,Some Hybrid
+Dog,Krypto,Dinky,6,Golden Retriever
+Cat,Piper,Pippin,5,Cat
+Dog,Bo Jangles,Bo,0.75,Husky
+Cat,Slinkey,Slonk,5,
+Dog,Brixton,Brixie ,1,Golden Retriever
+Dog,Jasper,Jasper,10,Miniature labradoodle
+Cat,Tabitha,Tabber,8,
+Dog,Shadow Montgomery,Lovebug,2,Golden Retriever
+Fish,Vitale Male the hot tamale who has a cooking show with Mario Batale ,Vitale,1,Betta fish
+Cat,Ramona,Meemo,4,
+Dog,Scout,Scout,14,Beagle
+Cat,Cocoa,Cokes,12,Tuxedo shorthair
+Unknown,, Nuts,Unknown,
+Unknown,, Cocoa,Unknown,
+Cat,Napoleon,Deviled egg,2,
+Dog,Libby,Libby,12,Golden Retriever
+Dog,Jasper Tucker Oaf,Jasper,11,Labrador
+Cat,Clarissa Fluffnugget,Clary,2,Domestic Long hair
+Dog,Tazmanian Devik,Taz,9,Mutt
+Dog,Iggy Pup,Iggy,0.33,Miniature double doodle
+Dog,Lilly,Lilly,12,Labrador Retriever
+Dog,Furrdinand,Furrdie ,10,Pomeranian
+Dog,Monster Mayhem,Doodle,8,Dachshund
+Dog,Watson,Watson ,6,Labrador Retriever
+Dog,Shine,Shine,12,Some Hybrid
+Dog,Freeney Schnurpel,Freenster,13,Shih Tzu
+Dog,Bella Jean,Bella,Deceased,Some Hybrid
+Dog,Ratchet,Ratchie,5,Pug
+Dog,Clifford,Clifford,4,Clumber spaniel
+Dog,Goose,Gooby,1,Some Hybrid
+Cat,Cricket,Crickby,7,Domestic Long hair
+Unknown,, Cringus,Unknown,
+Unknown,, Don Crickles,Unknown,
+Unknown,, etc.,Unknown,
+Dog,Magnus,Munchkin,7,Cairn Terrier
+Cat,Baby Kitty,Baby Kitty,7,Kitty cat
+Dog,Shilohâ€™s Dixie Skye,Dixie ,8,Miniature schnauzer
+Dog,Bootsie,BootsToots,17,Some Hybrid
+Cat,Bowie,Kitty boy ,0.6,Tuxedo cat
+Dog,Mindy,Mindy,10,Labrador
+Dog,Spock,Spock,7,Some Hybrid
+Dog,Merlin,Mer-dog,12,Chesapeake bay retriever
+Dog,Sylvia Plath,Sylvia,3,German Shorthaired Pointer
+Dog,Smokey Neyland,Smo ,9,Schnoodle
+Dog,Rufus Tee Hilderbrec,Rufus,11,Shih Tzu
+Dog,Baillie,B or B-Dog,7,Border Collie
+Dog,Sebastian,Bash,0.33,Maltipoo
+Cat,Mika Joe,Mika,9,Siamese
+Dog,Tess,Tess,13,Some Hybrid
+Dog,Zorro,Z,8,Long-haired Chihuahua
+Dog,Deacon,Deac ,11,Chesapeake bay retriever
+Cat,Sir charles chickenhock chaplin the teleporting dot,Charlie,11,
+Cat,Ally,Al,4,Cat
+Rabbit,Gandalf,Gandalf,10,Lionhead
+Cat,Lucas Adam Wilkins,Luke,10,Tabby
+Dog,Robert Ferguson Mooney,Bobby,6,Golden Retriever
+Dog,James buchanan barnes,Bucky,2,Unknown
+Dog,Buddy Boy,Buddy,16,Cocker Spaniel
+Cat,Cleo,Dump,2,Cat
+Dog,Belle Watling,Belle,2,Maltese
+Dog,Magladon wagladon,Maggie,1,Old English sheepdog
+Dog,Bella,Bella,14,Unknown
+Horse,Half pint,Half pint ,6,
+Cat,Leah Suji Wilkins,The Squeak aka Squeakerfish,10,Tabby
+Dog,Sophie,Sophie,11,Golden Retriever
+Cat,Mitsy,Mitsy,4,
+Dog,Stewart Little,Stewie ,16,Pomeranian
+Dog,Sadie,Sadie,0.91,Golden Retriever
+Dog,Ashley Wilkes,Ash,11,Some Hybrid
+Cow,Daisy the cow,Daisy,3,
+Dog,Oliver Jospeh Andrew,Oliver,11,Some Hybrid
+Dog,Rhett,Rhetters,12,English Springer Spaniel
+Cat,Emma May Wilkins,Emma,4,Tortie
+Cat,Hashtag Anamara Mainecoon,Hashtag,6,Maine Coon
+Fish,Caroline Gravel,Gravel,2,Betta fish
+Dog,Lily,Lil,5,Golden Retriever
+Cat,Arthur Fonzarelli,Fonzie ,12,Part Maine coon
+Cat,Vriska Serket,Vriska,8,Domestic shorthair
+Cat,Fabio ,Fabio,3,
+Dog,Cookie,CookieMonster,8,Shih Tzu
+Dog,Brutus,Brutus,10,Great Pyrenees
+Dog,Ralph,Ralph ,0.33,Golden Retriever
+Dog,Kurt,Kurtis,2,Black mouth cur
+Dog,Lyra Cristina,Lyra,0.75,Some Hybrid
+Dog,Bailey bear,Bay girl,6,Some Hybrid
+Dog,Brooklyn,Brooklyn,2,Beagle
+Cat,Isabelle,Izzy,11,Tortoise shell
+Dog,Champion Craig,Champ,14,Some Hybrid
+Cat,Kelly,Kelly,13,
+Dog,Lennox,Lenny ,4,Shih Tzu
+Dog,Sullivan Otis,Sulley ,10,Catahoula Leopard
+Cat,oreo vanilla cookie ,nene,11,
+Cat,Chessie ,Chess,12,Siamese
+Dog,Hank,Hanky panky,1,Black mouth cur
+Dog,Allie Nichols,Allie,5,Mutt
+Dog,Lila,Lila,5,Newfoundland
+Cat,Bubbles,Bubs,11,Chartreux
+Dog,Liberty Louise,Libby,9,English Springer Spaniel
+Cat,Sushi Charrito,Sush,2,Tuxedo cat
+Cat,Mouse,MousePotato,3,
+Cat,Kate,Katie,19,Tortie/Tortishell
+Dog,Jimmy,JimmyJamSunshineMan,5,Shih Tzu
+Dog,Rocky,Rocko,9,Rottweiler
+Dog,Sheldon Michael,Shel,7,Westin
+Dog,Jackson,Pupper,3,Australian Cattle Dog
+Cat,Midnight,Keek,19,American shorthair
+Dog,Maxwell Amos,Max,10,Catahoula Leopard
+Cat,angelina ,whitey,5,
+Dog,Margaret Lewis,Maggie,11,Mutt
+Dog,Ginger,Geeper Creeper,10,Some Hybrid
+Irrelevant,Johannes venereal Versmear,Venny,0,
+Dog,Gator,Tate ,8,Rottweiler
+Dog,Badger,Badger,12,Dachshund
+Dog,Beauregard,Beau,22,Golden Retriever
+Dog,Buffy,Buffy and/or Buffalo,8,Beagle
+Dog,duque,duque,1,Some Hybrid
+Dog,Mika,Mika,5,Husky
+Dog,Scarlett,Little Girl,8,Border Collie
+Dog,Macy,Macy,11,Some Hybrid
+Dog,Gromit Walker,Gromit,8,Golden Retriever
+Cat,Ms. Kitty,Ms. Kitty,16,
+Dog,Gracie Lou Freebush,Gracie,9,Labrador
+Dog,River,River,0.29,Husky
+Ferret,Leo,LeHOE,1,
+Dog,Olaf,Olaf,4,Chihuahua
+Dog,Buttons,Buttons (sometimes with a french accent),2,Beagle
+Dog,Stevie James,Steve,9,Maltipoo
+Dog,Mila,Crusty,14,Rottweiler
+Dog,Murphy,Murph ,5,Golden Retriever
+Cat,tiger,tiggy,5,
+Cat,Edna Lou,Breadna,5,
+Cat,Princess Purdy ,Purdy,11,Domestic Long hair
+Cat,Squidward ,Squid,1,Domestic shorthair
+Dog,Oscar the Amazing VelcroDog,Oscar,12,Some Hybrid
+Dog,Poppy,Poppy,4,Shih Tzu
+Cat,daisy dukerson,daisy,5,
+Cat,Tigger,Tigger,17,Tabby
+Cat,bubbles,bubby,6,
+Cat,Prince Charlie ,Charlie,11,Domestic Long hair
+Dog,Ellie Mae,Ellie,13,Cocker Spaniel
+Dog,Snowy,Snow,11,Shih Tzu
+Dog,Bruno,Bruno,4,Border Collie
+Cat,Twitch,Twitch,11,Domestic shorthair
+Dog,Mona,Mona,12,Bluetick beagle
+Cat,harley davidson,har mar,9,
+Cat,Ted Kennedy ,Teddy,1,Domestic shorthair
+Dog,Yaz,Yazzy,11,Golden Retriever
+Dog,Princess Leia Organa,Princess,Deceased,Mutt
+Dog,Oakley,Oak,3,Shih Tzu
+Unknown,, oakey-doke,Unknown,
+Dog,Tinkerbell,Tinky,4,Chihuahua
+Cat,Bella,Bella,4,Maine Coon mix
+Cat,Fup ,Fup,10,n/a
+Dog,Beckett,Beckett or Becky,9,Golden Retriever
+Cat,Fudge,Fubdge,3,Ginger
+Cat,Lady Luck,Lucky,11,Domestic shorthair
+Cat,Moose,Moose,4,Maine Coon mix
+Dog,Logan,Logan,10,Labrador
+Dog,Daisy Grace,Daisy,8,Some Hybrid
+Cat,Leela,The Cat,10,Domestic shorthair
+Cat,Ellie,Ellie-phant,9,Calico
+Cat,Her Royal Highness the Princess Blaze,Blaze,9,Domestic shorthair
+Cat,Phillipe Robert Jean Luc Tugboat â€œToot! Toot!â€�,Phillipe,4,Manx cat
+Cat,Alexander DapperCat,Alex,9,Domestic shorthair
+Dog,Lila Betterhalf,Lila,13,Greyhound
+Cat,Darling,Baby Girl,14,Manx cat
+Cat,Smokey,Mr Moke,12,British Shorthair
+Cat,Jezebel ,Jez,14,Himalayan
+Dog,Tula Jean,Tula,1,Unknown
+Cat,Edison D. Cat,Eddie,9,Domestic shorthair
+Cat,Redford,Rasa,12,
+Dog,Odin,Odin,1,Some Hybrid
+Dog,Annie Piker,Annie,8,Greyhound
+Dog,Rusty,Rusty,4,Golden Retriever
+Cat,Thomas ,â€œTomâ€� â€œOld Manâ€�,18,Domestic shorthair
+Cat,Fleckchen,Monster,7,European Shorthair
+Dog,Stella Luna,Stella,4,Some Hybrid
+Cat,Fay Fuller,Fay,0.2,
+Dog,Pancho Villa,Pacho,12,Pug
+Dog,Waldo,Waldo,9,Cockapoo
+Dog,---,,Unknown,Unknown
+Cat,Luna,Kuschelmaus,8,European Shorthair
+Dog,Yadier,Yadi,4,Golden Retriever
+Irrelevant,DJ Roomba ,DJ Roomba ,Unknown,
+Dog,Ruby Gem,Ruby,4,Some Hybrid
+Dog,BuddyGus,Buddy or Boo,1.66,Golden Retriever
+Dog,Homer,Homie,5,Springer Spaniel
+Dog,Pippie,Pippie or Pippo,2,Some Hybrid
+Dog,Parker,,6,Beagle
+Dog,Chipper Doodle,Chip,12,Labrador
+Dog,Jack,Jack,7,Labrador Retriever
+Dog,Xena,Xena,14,Miniature Pinscher
+Unknown, Warrior Pinscher ,,Unknown,
+Dog,Gabby,Gabby,2,Golden Retriever
+Dog,Rosebud,Rosie,10,Beagle
+Dog,Cooper,Coopee ,10,Some Hybrid
+Dog,Shakota,Shakota,12,Siberian Husky
+Dog,Wilbur,Wilby,7,French
+Dog,Finn T. Dog,Finn,0.41,Weimaraner
+Cat,Wilma ,Wilma Jean the Queen ,2,Orange tabby (DSH)
+Dog,Baylee,Baylee Boo,2,Unknown
+Unknown,, Taps,Unknown,
+Dog,Sprocket,Bark,15,Mutt
+Dog,---, sprock,Deceased,Golden Retriever
+Dog,---, spark,Unknown,Jack Russell
+Whippet,,,Unknown,some whippet)
+Cat,Peppercorn Ale,Pepper,14,
+Cat,Stanley,Stan the handsome man ,1,Orange tabby (DSH)
+Bird,Ahanu ,Ahanu ,13,Caique
+Dog,Sophie,Sophie ,13,Some Hybrid
+Dog,Sasha,Chunk ,1,Labrador
+Bird,Perkins the Parakeer,Perkins,3,Parakeet
+Dog,Kookie (pronounced cookie) Pants,Noodle,15,Jack Russell Terrier
+Dog,Miss Maisy Cakes,Maisy,1,Mutt
+Dog,Han Solo,Solo,3,English Cocker Spaniel
+Dog,Lillith Anne,Lily,6,Alaskan Husky
+Dog,Michelangelo,Mikey,11,English Cocker Spaniel
+Dog,Freddie Beagle,Fred or Freddie ,11,Beagle
+Dog,Pieper,Pooper,4,Unknown
+Fish,Toilet Mimosa Gillan ,Togimi ,0.5,Betta fish
+Dog,Jacob,Jake,6,Alaskan Husky
+Lizard,Drazil Marie,Drazil ,4,Bearded Dragon Lizard
+Dog,Titus Augustus,Tidy,9,American Foxhound
+Dog,---,Cirrus,2,Poodle
+Dog,Shelby,Shelby,14,Labrador Retriever
+Dog,---,Nimbus,0.5,Poodle
+Dog,Finn,Finn,1,Cavalier King Charles Spaniel
+Cat,Kitten Kitten Kittycat,Kitty,14,American Longhair
+Dog,Tessie Joan (of Arc),Tessie ,7,American Foxhound
+Dog,Ginger,Ginger,12,Golden Retriever
+Dog,Sadie,Sadie,6,Golden Retriever
+Dog,Flicka,Flicky,12,Labrador Retriever
+Dog,Koda Kingslayer,Koda,2,Golden Retriever
+Dog,Flicka,Flicky,12,Labrador Retriever
+Dog,Maggie,Ms America ,7,Golden Retriever
+Dog,Henry (after Dorian Grey),Henry,1,Brittany
+Dog,Megan,Puppy,10,Mutt
+Cat,Danteâ€™s InFURno,Dante,7,Maine Coon
+Cat,Gatsby,Gatsby,0.8,Stray
+Unknown,,,Unknown,black
+Cat,Tyrone,Tyrone,0.5,
+Dog,Hopper T. Dog,Hops,6,Golden Retriever
+Dog,Snickers,Snickers,10,Some Hybrid
+Cat,Tommy toe,Tommy,3,
+Cat,Wheels,Wheels,16,
+Dog,Venkman,Venk,5,Golden Retriever
+Cat,Maisie ,Maisie,0.8,Stray
+Unknown,,,Unknown,black
+Dog,Murphy,Murph,0.5,Cocker Spaniel
+Unknown,,,5,
+Dog,Maggie,Schmieg,12,Golden Retriever
+Cat,Lin Meow Miranda,Lin,3,American shorthair
+Dog,Jasmine,Jasmine,13,Golden Retriever
+Dog,Hurley Pearly Sky-Sky,Hurley,7,Shih Tzu
+Dog,Queso,Queso,14,Golden Retriever
+Dog,Breezy Anne,Breezy,5,German Shepherd
+Dog,Riley,Riley,7,Golden Retriever
+Fish,Fishy Fishy Fishy III,Fishy,0.7,Betta fish
+Dog,Homer J,Homer,10,Some Hybrid
+Dog,Tucker,Tucker ,7,Golden Retriever
+Cat,Kitty Vegas,Vegas,6,Domestic Long hair
+Dog,Abby,Abby,3,Some Hybrid
+Dog,Cooper Triple Bogey,Coop,0.18,Golden Retriever
+Dog,Shelby,Shelby,1,Blue Tick Coon Hound
+Cat,Dr Gaius Baltar,Gusgus,10,Russian Blue
+Dog,Oakley Dalton,Oaks,6,Unknown
+Dog,Lucy Lou,Goose,9,Golden Retriever
+Cat,April,April,14,
+Cat,Vasquez ,Vasquez ,7,Domestic shorthair
+Dog,Niles Crane,Niles,4,Border Collie
+Dog,Little Lucky One,Lucky,13,Chihuahua
+Dog,Benjamin Sebastian,Benjamin,7,Some Hybrid
+Dog,Siris Maximus,Sirius,5,Alaskan Husky
+Dog,Blaze,Blaze,5,Labrador Retriever
+Dog,Brody,Brody,11,Yorkshire Terrier
+Cat,Ripley,Chubby Chubs,4,Domestic shorthair
+Dog,Director of Chaos,D.O.C.,4,Boxer
+Cat,Josh Joshua Joshylin,Josh,6,Tuxedo cat
+Cat,Lisa,Lisa,12,
+Dog,Cody,Codes,11,Golden Retriever
+Cat,Nepeta ,Nepeta,2,Short haired
+Dog,Emma,Rotta,6,Mittelspitz
+Cat,Leeloo Dallas Multipass,Leeloo,9,LaPerm
+Dog,Isabella Grace,Bella,7,Maltese
+Dog,Cookie Boogie,Boogie,3,Unknown
+Cat,Cataria,Tarie,2,
+Dog,Salina,Salina,2,Some Hybrid
+Dog,Theodore James,Theo,5,Maltese
+Dog,Ofelia,Ofie Lofie,15,Norwich Terrier
+Dog,Hermie,Hermie,3,Labrador
+Gecko,Turtle,Turtle,5,
+Dog,Jackson Baines Hardin,Jackson,14,Some Hybrid
+Unknown,, Jack,Unknown,
+Cat,Tali'zorah vas Normandy,Tali,9,LaPerm
+Dog,Rudy,Rudy,12,Labrador
+Guinea Pig,Teddy,Teddy,3,
+Dog,Chuchi,Baby Chu,9,Toy Poodle
+Dog,Belle Silver,Bobo,3,Brittany
+Fish,Fish,Swish,7,Unknown
+Dog,Phoebe Buffay,Phoeb,4,Staffordshire Terrier
+Dog,Precious Presley,Presley ,1,Some Hybrid
+Cat,Boots,Fuckoff,10,Black cat with white feet
+Dog,Sarah Jessica Parker,Parker,8,Beagle
+Dog,Princess Leah,Leah,8,Miniature schnauzer
+Cat,Zeus,Zeus,2,
+Dog,Mr Duke of Carol Stream,Boo-Boo,10,Labrador Retriever
+Dog,Bruno Mars,Bruno ,4,Shih Tzu
+Cat,Persephone,Persey,2,
+Dog,Reggie,Reg,8,Border Collie
+Cat,Momo,Momo,9,Domestic shorthair
+Dog,Twixie,Gooben,2,Unknown
+Dog,Kody,Kode,10,Golden Retriever
+Dog,Maverick Clinton,Maverick ,10,Labrador Retriever
+Cat,Abbey Road,Abbey,3,Domestic Long hair
+Cat,Naga,Naga,6,Domestic shorthair
+Dog,Sven,Bean,5,German Shepherd
+Dog,Lola,Lola,11,Some Hybrid
+Dog,Sophie,Sophie,2,Rottweiler
+Cat,Stinky Pete,Pete and/or Stinky,18,Just a regular cat
+Cat,Gozer,Gozey,12,Black cat
+Dog,Lily Potter,Lil,2,German Shepherd
+Dog,Dougie McFly,Dougie,11,Cairn Terrier
+Dog,RileyRoo,Riley,2,Mutt
+Dog,Dobby,Boober ,4,Pembroke Welsh Corgi
+Cat,Sir Edward Julius Robert Kittybutt III,Eddie,16,Tiger cat
+Fish,Chu-chu,Chu-chu,0.9,Goldfish
+Dog,Lando,Lando,5,Bernese Mountain Dog
+Dog,Tucker Paul,Tuck Tuck,6,Pit bull
+Dog,Schnitzel Von Krumm,Ninnel,11,Miniature Dachshund
+Dog,Wrigley,Wriglry pigley,13,Beagle
+Dog,Wally,Wal,0.33,Golden Retriever
+Dog,Snickers,Doodle ,11,Beagle
+Dog,Charlie,Charlie,9,Cockapoo
+Dog,Pepper,Pep,0.79,Cocker Spaniel
+Dog,Brownie,Brownie ,13,Beagle
+Cat,Maow,Kitkat,14,
+Dog,Echo,Beck,3,Some Hybrid
+Dog,Banky,Banky,10,Basset Hound
+Dog,Koda,Koda,6,Chihuahua
+Dog,Clifford,Cliff,6,Some Hybrid
+Dog,Coco,Coco Bear,7,Morkie
+Dog,Charlie,Charlie,8,Pit bull
+Dog,Mojo,Moj,5,Chiweenie
+Horse,Wizarding Wonder,Wizwo,12,Shire x TB
+Dog,Hank,Hank,2,Some Hybrid
+Horse,Thunderhawk,Thunder,21,Spanish mustang
+Dog,Sebastian,Fritz,15,Some Hybrid
+Horse,Cielo,Piglet ,4,
+Cat,Bebop Vincent,Beebs,5,Domestic shorthair
+Horse,Thalia,Thalia,4,
+Horse,Morganna la Fey,Morganna,15,
+Cat,Maja,Maja,14,Grey
+Dog,Hank,Hanky,2,Labrador
+Dog,Ella,Ells Bells,14.5,Cocker Spaniel
+Dog,Frappuccino,Frappie,7,Labradoodle
+Horse,Texas Pony Smoke,Monster,2,
+Dog,Gracie,Grace,12,Shih Tzu
+Horse,Khan,Khan,3,Spanish mustang
+Dog,Phoebe,Phoebe,2,Goldendoodle
+Dog,Uma Strawn McGuire,Uma,4,Some Hybrid
+Dog,Buster,Boop squared,13,Terrier
+Horse,Reno,Reno,Unknown,
+Cat,Sketchy Missouri,Sketchy,12,Tortoise shell
+Dog,Eva Marie,Eva,3,Chihuahua
+Horse,Boogieman,Boogie,5,
+Dog,Mia Hamm,Mia,11,Golden Retriever
+Cat,Charlie,Charile,18,Tabby
+Dog,alia atreides,allie,5,Mutt
+Horse,Legacy,Legacy,15,
+Horse,Mambo no. 5,Mambo,2,Spanish mustang
+Cat,Zoey,Zoe,4,
+Dog,lexie,lex,0.83,Golden Retriever
+Horse,Mato Maâ€™huâ€™i,Mato,2,
+Dog,Bernard,Bernard ,5,Boxer
+Horse,Starflowerâ€™s Jezebel,Jezebel,4,Spanish mustang
+Cat,Jenna Nicole Rhea Lopez Horn,Jenna Jenna,8,
+Dog,Myles - his roman name is Squirtacus Mylonius,Myles,10,Cockapoo
+Horse,Diamond Lily,Lily,7,
+Dog,Millie,Millie,9.5,Some Hybrid
+Horse,Gypsy Rose Lee,Gypsy,6,
+Fish,Butters,Butters,0,Goldfish
+Dog,Bodhi,Bo,6,Golden Retriever
+Dog,Mooch,Mooch,9,Some Hybrid
+Dog,Piper,Pipes,4,Some Hybrid
+Cat,Ramona,Ramona,12,
+Dog,Charles,Charlie,10,Corgi
+Horse,Morning Glory,Glory,Unknown,
+Dog,Willow,Willow,3,Some Hybrid
+Horse,Morning Mist,misty ,Unknown,
+Dog,Glamis Schedule K1,Kona,5,Golden Retriever
+Dog,Bandit Raye,Bandi,12,Farm dog
+Horse,Syndicated Copper,Copper,Unknown,
+Cat,Cleo,Cleo,13,DSH
+Cat,Sebastian Ninja Nutjob,Sebastian,11,Domestic shorthair
+Dog,Anderson,Andy,12,Some Hybrid
+Dog,Mars Harambe,Pickle,3,Some Hybrid
+Irrelevant,Butler,Butler ,1,iRobot
+Unknown, You Glorious Vacuuming Bastard,,Unknown,
+Dog,Claudio Atlas Wolfric,Claudio ,8,Dachshund
+Rabbit,Flufy,Flufy,10,Lionhead
+Dog,Lawson H Dog,Hogan,16,Briard
+Cat,Smudge the Second,Deuce,4,Himalayan
+Dog,Tucker,Tucker,1,Some Hybrid
+Unknown,, dude,Unknown,
+Unknown,, Bud,Unknown,
+Cat,Echo,Echo,18,
+Dog,Ames,Ames,5,Husky
+Dog,Franc,Franc,0.33,Some Hybrid
+Cat,Winnie,Winnie,0.3,
+Cat,Tiggy,,0.3,
+Dog,Oliver Jackson,Oliver/Baby/Little Man,5.5,Morkie
+Dog,Dolly Doodle Dogger,Dolly,6,Labradoodle
+Cat,Ann Perkins ,Ann ,0.5,Mixed
+Dog,Cassie,Cassie,5,Some Hybrid
+Cat,Kisa Marie,Kisa,6,
+Dog,Logan,Logan brogran,2,Rhodesian Ridgeback
+Dog,Basil,Basil,7,Some Hybrid
+Dog,Marble,Marble,5,Some Hybrid
+Dog,Hollie,Hollie,14,West Highland Terrier
+Dog,Cash Money,Cashie,2,Labrador Retriever
+Dog,Seamus,Shamie Bameee,11,Rhodesian Ridgeback
+Cat,William Robert,Billy,3,
+Dog,Nash,Nash,2,Labrador Retriever
+Cat,Spoons,Spoons,3,Calico
+Cat,Arizona,Arizona,7,Domestic shorthair
+Dog,Sian Ben Ryan,Sian or Sisi,14,West Highland Terrier
+Dog,Bear 2,Bear,7.5,Some Hybrid
+Cat,Banjo,Banj,3,DSH
+Chinchilla,Fossedini Heraldo Macduff,Fosse,10,
+Cat,Princess Melanie,Melanie,5,Domestic Long hair
+Cat,Tiffany Marie,Tiffany,13,DSH
+Dog,Charles Barrath McIntyre,Barry,6,Basset Hound
+Dog,Margeurite Larioux Gonzales,Maggie,6,Chihuahua
+Dog,Rusty,Rusty,2,Labrador
+Dog,Starfire,Star,15,Maltese
+Dog,Nova,Nova,3,Some Hybrid
+Dog,---,,Unknown,papillon
+Dog,---,,Unknown,Chihuahua
+Dog,---,,Unknown,cavalier 
+Dog,Dinty,The Dint,5,Some Hybrid
+Cat,Hamilton,Hammy Bits,3,
+Dog,Kadie Jo,Kadie Jo,6,Labrador Retriever
+Cat,Incandenza,Ink,3,
+Cat,Fitzgerald,Fitz,8,Domestic shorthair
+Cat,Zelda,Zelda,8,Domestic shorthair
+Dog,Daisy Duke,Daisy ,4,Some Hybrid
+Guinea Pig,Stewie,Stewie,2,
+Dog,Sunny Sunday Sky,Sunny,15.5,Beagle
+Guinea Pig,Francisco,Cisco,2,
+Horse,Dream On Chip,Diva,15,Appaloosa
+Dog,Bailey,Bailey ,3,Some Hybrid
+Horse,Tundra,Tundra,12,Mixed
+Horse,,,Unknown,paint
+Dog,---,,Unknown,Tennessee walker
+Dog,Bosco Spaghettio,Bosco,9,Some Hybrid
+Cat,Agnes Marie,Aggie turd,2,
+Dog,Tansei,Duffus,7,Shiba Inu
+Cat,Edith,Eduf Monster,1,
+Cat,Mini,Mimi,13,Tuxedo
+Cat,Theodore ,Ted,4,Persian
+Dog,Molly,Molly,16,Golden Retriever
+Dog,Duke Dukington,Duka,3,Some Hybrid
+Cat,Oliver Newton,Ollie,4,Maine Coon
+Dog,Prince Phillip the 2nd,Phillip,12,West Highland Terrier
+Unknown,, Daddy-o,Unknown,
+Cat,Starla,Starla,4,Domestic shorthair
+Dog,Petey,Petey poopoo head,11,West Highland Terrier
+Dog,President Nixon,Nixy ,8,Some Hybrid
+Dog,Daisy Doodle Fat Kid with Butt Spots,Daisy ,4,Hound x
+Dog,Benry of Willowbrook,Benry,8,Golden Retriever
+Dog,Qoda,Qoda,2,Golden Retriever
+Unknown,,,5,
+Dog,Ziggy Starsog,Zig,15,Hound x
+Dog,Samuel Labrador,Sam,13,Labrador
+Hamster,Princess Consuela Banana Hammock,Banana,Deceased,
+Dog,Bentley Boy,Bentley,13,Shih Tzu
+Dog,Taco Belle ,Taco,Unknown,Taco
+Dog,Pluto,Pluto,Deceased,Golden Retriever
+Hamster,Scooter Computer,Scooter,2,
+Dog,Toby,Toby,6,Some Hybrid
+Dog,Harlee,Harlee,3,Anatolian Shepherd
+Dog,Nessa,Nessa,1,Golden Retriever
+Dog,Biscuit Bandit,Bandit,3,Labrador
+Cat,Sophie,Fuzzbutt,2,
+Dog,The Real Slim Sadie,Sadie ,15,Golden Retriever
+Dog,Quincy Sugarplum,Quincy ,3,Golden Retriever
+Dog,Skipper Doo,Skip,4,Yorkie
+Dog,Sam Ruffalo,Sam,6,Some Hybrid
+Dog,Brutus Buckeye,Brutus ,Deceased,Golden Retriever
+Dog,crespo,crespo or baby ðŸ˜‚,12,Some Hybrid
+Dog,Rossignol,Rozzie,Deceased,Siberian Husky
+Hamster,Peaches,Peaches,3,
+Dog,Pepper,Pepper,4,Some Hybrid
+Dog,Amaya,Maya,6,Siberian Husky
+Cat,Eloise ,Ellie,10,
+Cat,Olive,Ollie,4,
+Cat,Kiki Buntain,Kiki,18,Mutt
+Dog,Tiger,Tiger,12,Unknown
+Dog,Bonnie,Bonnie,8,West Highland Terrier
+Dog,Abby,abby,11,Cavalier King Charles Spaniel
+Gecko,Gomez,Gomie,10,High yellow leopard gecko
+Dog,Cooper,Coop,7,Labrador
+Dog,Chase,Chase,3,Some Hybrid
+Hamster,Steve Hammond,Steve,0.3,Russian Campbell
+Dog,Riley Jenkins,Riley,1.5,Golden Retriever
+Dog,Montgomery T Dog,Monty,2,Some Hybrid
+Unknown,, monkey,Unknown,
+Unknown,, monkeyrunk,Unknown,
+Dog,Nana Roo,Nana,5,German Shepherd
+Cat,Ella Grey,Ella,7,
+Dog,Callie,Cal Gal (the golden),3,Golden Retriever
+Dog,Rocco Norbert,Rocco,10,Golden Retriever
+Dog,Jack,Jack,3,Unknown
+Dog,Ted,Ted,0.5,Welsh Terrier
+Snake,Desiree,Desiree,11,Rosy boa
+Dog,Jaida Lynn,Jaida,12,Labrador
+Snake,Gaia,Gaia,10,Dumerilâ€™s boa
+Dog,Daisy Lulu,Daisy,9,Toy Poodle
+Cat,Phillip,Phillip,16,Yellow buddy tabby?
+Cat,Sunni,Sunni,10,Birman
+Cat,Nymeria,Nym,5,DMH
+Cat,Scarlett,Scar,8,n/a
+Cat,Ink,Ink,0.5,DMH
+Cat,Drew,Drewbeans,7,
+Dog,Titus,Titus ,7,Labrador
+Cat,Midna,Midna,8,DSH
+Dog,Cookie Asparagus,Cookie,11,Chihuahua Jack Russell Terrier
+Dog,Tessa Leigh,Tessa,11,Labradoodle
+Dog,Ali,Ali,5,Greyhound
+Dog,Daisy,Daisy/Dandelion,4,Some Hybrid
+Dog,Lucky,Luck luck ,5,Labrador
+Cat,Rex,Rex,7,Maine Coon
+Dog,Harper Jean,Harper Jean,15,German Shepherd
+Cat,Maverick,Maverick,2,
+Hermit Crab,Rork,Rork,2,
+Cat,Tina Fay,Tina,6,
+Cat,Sophie,Sophie,4,DSH
+Dog,Max-well,Max,6,Golden Retriever
+Dog,Mica,Mica,6,Some Hybrid
+Cat,Patches,Patches ,10,Tuxedo cat
+Cat,Asch,Asch,4,DSH
+Rat,Yuri,Yuri,1,Rat
+Rat,Ravio,Ravio,1,Rat
+Dog,Sylvester Balboa,Sly,6,Golden Retriever
+Dog,Mia Roo,Mia,11,Australian Shepherd
+Hamster,Melody,Melody,1,Winter white
+Dog,Casper Tiberus,Casp,4,Some Hybrid
+Dog,Chummy,Chumbles,5,Labradoodle
+Dog,Luna Bean,Luna,7,Some Hybrid
+Gerbil,Brown Gerbil,Brown Gerb,2,Gerbil
+Cat,Gabby Comacho,Cho Cho,16,Domestic shorthair
+Gerbil,White Gerbil,White Gerb,2,Gerbil
+Dog,Sofie Tooter Scooter,Sofie,7,Chihuahua
+Dog,Mojo,Mojo,5,Labradoodle
+Dog,Grace,Grace,1,Some Hybrid
+Cat,Misha ,Misha ,8,Tabby
+Dog,Frankie,Frankie,1,Some Hybrid
+Guinea Pig,Dollar dollar bills y'all,Bill,2,Guinea Pig
+Dog,Osa,Osa,9,Some Hybrid
+Dog,Dixie,Dixie,12,Some Hybrid
+Cat,Barnabas ,Bucky ,0.9,Mix
+Dog,Nina,Nina,7,West Highland Terrier
+Cat,Bitsy,Bitsy,15,Domestic shorthair
+Dog,Rachel,Rachel ,8,Schnauzer
+Dog,Piper,Piper,9,Labrador Retriever
+Dog,Bella,Belly,10,Yorkie
+Dog,Queen Khaleesi,Queenie,12,Some Hybrid
+Cat,Pumpkin,Pumpkin,6,
+Dog,Bridget,Bridgy,15,Mutt
+Unknown,, Pookie bridge ,Unknown,
+Dog,Bodacious,Bodie,14,Labrador Retriever
+Dog,Mama Rose,Rosie ,7,Pit bull
+Dog,Augustus,Gus,8,Golden Retriever
+Cat,Sunshine,Sunshine,7,Tiger stripe (orange)
+Dog,Tater,Tater,0.25,Some Hybrid
+Cat,Millicent ,Millie,6,
+Hedgehog,Gustavus Ericius Hedgehog of the North,Gus,1.5,
+Dog,Beverly Ann,Beverlana,13,Golden Retriever
+Dog,Cora Smalls,Cora,3,Havanese
+Dog,Jasper,Jasper,16,Dalmatian
+Cat,Dust,Dust,1,
+Dog,Caleb, caliber ,15,Blue Tick Coon Hound
+Dog,Tonka,Tonks,8,Newfoundland
+Unknown,, Tonkers,Unknown,
+Unknown,, Sir Tail,Unknown,
+Bird,Spike,Spiker-doodle,13,Cockatiel
+Cat,Ash,Ashy boy ,9,
+Cat,Blossom ,Moose,8,British long hair
+Cat,Violet ,Violet ,14,Shorthair
+Cat,Thor ,Thor,4,
+Dog,Hank,Baby,2,Boxer
+Dog,Brandy,Puddin,5,Some Hybrid
+Cat,Lily ,Lillibutt,11,Shorthair
+Dog,Sir Squeaksalot the Second,Twoie,9,Chinese Crested Powder Ouff
+Cat,Buddy,Buddy Boi,4,Shorthair
+Dog,Colby Jack,Jack,5,German Shepherd
+Dog,Cooper,Coop,0.12,Labradoodle
+Dog,Murphy,Murph,1,Goldendoodle
+Dog,Phineas,,7,irish soft-coated wheaten terrier
+Dog,Peach,Peach,2,Some Hybrid
+Dog,moose alexander,moose,0.66,Maltipoo
+Cat,eliza goose,eliza,2,Grey
+Guinea Pig,Nibbles,Nibsey,5,Shorthair
+Cat,Chichi,Chichi,9,Tabby
+Cat,isabella,Izzy,4,
+Dog,Ruby,Ruebs,6,Rhodesian Ridgeback
+Dog,Ruby,Ruby,4,Labrador Retriever
+Dog,Min Ottende Bold,Otte,9,Labrador
+Dog,Min fine Nimina Beana,Mina,6,Labrador
+Dog,Lucy,Lu,3,Great Pyrenees
+Cat,Belvedere,Biff,16,shorthair mackerel tabby
+Cat,heaven,Kitty,8,Tortoise shell
+Dog,Lucy Lou,luey,4,Basset Hound
+Dog,Katniss Underfoot,Katniss,9,Pit bull
+Dog,Sadie,Sayd,13,Border Collie
+Dog,Coco  Chanel mademoiselle,Coco,5,Golden Retriever
+Dog,Maggie,Mags,8,Border Collie
+Dog,Gunner baker,Gunner ,12,Labrador
+Rabbit,Lady Sybil,Lady,1.75,Holland Lop
+Cat,Ashley Williams,Ash,8,Maine Coon
+Dog,April in Paris,Paris ,6,Golden Retriever
+Bunny,Colby,,3,
+Cat,Mister,Mister,2,American shorthair
+Cat,Goku,Tutu,2,
+Fish,Miles,Miles,5,Goldfish
+Cat,Fuzzball,Fuzzybutt,10,American shorthair
+Dog,Felix,Felix,2,Unknown
+Cat,Benjamin,Ben,14,
+Dog,Woodruff,Woody,10,Saint Bernard
+Cat,Tibby,Tib or Monster ,3,Unknown
+Dog,Kitty take your gloves off,Reba ,8,Golden Retriever
+Cat,Honey,Honey,7,Tabby
+Dog,Mulligan,Mull,12,Golden Retriever
+Dog,Loki,Loki aka goof ball ,0.66,Golden Retriever
+Dog,Okemo,Okemo,8,Australian Cattle Dog
+Dog,Beau,Beau,1.5,Some Hybrid
+Cat,Lucy ,Lucy,6,
+Dog,Zack attack,Zack,10,Golden Retriever
+Dog,Kendall,Kendall,4,Some Hybrid
+Dog,Bailey,Bailey,1,Labrador
+Dog,Ranger,Ranger,11,German Shepherd
+Dog,Dan,Dan,12,Some Hybrid
+Dog,Sir Maximillion of Binghamton,Max,10,Golden Retriever
+Dog,Freya,Freya,3,Pointer
+Dog,Jackson,Jax,14,Some Hybrid
+Dog,Kurama,Kdog,3,Unknown
+Dog,Luchik,Luchik or Luci,5,German Shepherd
+Dog,Pippi Hyde,Pippi,11,Cocker Spaniel
+Cat,Scarlet,Purrincess Kitty,13,Domestic shorthair
+Dog,Pearly,Pearl,5.5,Some Hybrid
+Cat,Sebastian,Monkey,12,Domestic shorthair
+Dog,Walter,Walty,6,Some Hybrid
+Cat,Reeses Pieces,Reesie,2,Domestic shorthair
+Dog,Buddy of Bailey's Irish Cream,Buddy,11,Labrador
+Dog,Belle,Belle,15,Golden Retriever
+Cat,Sushi Roll,Sushi,15,American Bobtail
+Dog,Zoe Marie,Zoe,6,German Shepherd
+Dog,Wilson,Wilson,4,Some Hybrid
+Cat,Mochi,Mochi,15,American Bobtail
+Dog,Reesie,Reesie,14,Yorkshire Terrier
+Cat,Sasuke,Sasuke ,6,Mixed
+Cat,Sasuke,Sasuke ,6,Mixed
+Dog,Bocephus Ray,Bo,6,German Shepherd
+Dog,Gunner,Gunny,5,Labrador
+Dog,Stella,Stella,12,Some Hybrid
+Dog,Bailey's Irish Cream,Bailey,13,Golden Retriever
+Cat,Abigail,Abby,8,Siamese
+Dog,Poppy,Pops,16,Jack Russell
+Dog,Nina,Beans,12.5,Flat Coated Retriever
+Cat,Boris,Boris,3,Spinx
+Cat,Smoochey ,Moo moo cow/ moochey ,18,Domestic shorthair
+Cat,Toast Malone,Toast ,5,
+Cat,Hex,Hex,8,
+Cat,Smudge of Grey,Smudge,7,
+Dog,Charlotte,Char,4,Beagle
+Dog,Ms. Cuddles,Cuddles,13.75,Shih Tzu
+Dog,Wayne Rooney,Roo,13,Border Collie
+Dog,Snack,Snack,2,Some Hybrid
+Cat,Skipper,Skips,16,
+Cat,Nacho Bell Grande,Bean,1,Yes
+Unknown,, nacho,Unknown,
+Dog,Hazel,Zelly,3,Golden Retriever
+Unknown,, ZZ,Unknown,
+Unknown,, Hayzelly,Unknown,
+Dog,Luna Calamity Barnes,Luna,9,Mutt
+Dog,Hiro Barnes,Hiro,5,Mutt
+Dog,Ramsey,Ramsey,0.33,Labrador
+Dog,Stella Diane,Stella,6,Some Hybrid
+Dog,Trigger,Trig,4,Labrador Retriever
+Cat,Noodle,Noodle,3,Calico/domestic shorthair
+Dog,HÃ©loÃ¯se,HÃ©loÃ¯se ,9,Some Hybrid
+Dog,Scout McGee,Scout,12,Spitz
+Dog,Milo,Milo,2,Golden Retriever
+Dog,Kolbie,Kolbie,10,Beagle
+Dog,Rhyannon's Princess Nikita,Nikki,10.5,Siberian Husky
+Cat,Scram,Scrammies,2,Domestic medium hair
+Cat,Darwin,Cat,7,
+Cat,Leo,Leo,16,
+Cat,Kanga,Kanga,4,Calico/Tabby
+Rabbit,Winona,Winnie,2,
+Cat,Bugaloo Bonzai,Bug,7,
+Dog,Malcolm P. Dog,Malcolm,17,Some Hybrid
+Dog,Maxwell T. Bone,Max (Alias: BrownDog),11,Labrador
+Cat,Patches,Patch,8,
+Dog,Indy,Indy,8,Poodle
+Dog,Cody Fluffball,Cody ,11,Golden Retriever
+Dog,Fudge,Fudgie ,6,Some Hybrid
+Dog,Mia,Mia,13,Golden Retriever
+Cat,Louie,Louie,4,
+Cat,Mitzi Junebug Kandinsky,Mitzi,8,
+Dog,Megan Gabriela Ortega,Moo,11,Boxer
+Cat,Bernie,Bernie (Bernard if naughty),2,Domestic Long hair
+Dog,Bel,Bel,7,Cocker Spaniel
+Dog,Artie,Artie Party,14,Golden Retriever
+Dog,Snickers,Snickers,9,Some Hybrid
+Cat,Hazel ,Hazel,4,Domestic shorthair
+Dog,Blue,Blue,7,Some Hybrid
+Dog,Wally,WaWa,2,Some Hybrid
+Dog,Copper,Copper,10,Some Hybrid
+Cat,Harold,Harry,0.1,Cat
+Lizard,Birdie,Baby liz,7,
+Cat,Sir Jonathan Pooh Cat,Jonathan,10,Persian
+Dog,Juliet,Jules,2,Pit bull
+Cat,Scout,Scout,9,Tabby
+Dog,Dasher,Dash,8,Spanador
+Dog,Grace,Gracie,5,Labrador Retriever
+Dog,Ruby,Ruby,12,Mutt
+Bird,Nugget,Nugget,2,Ringneck Dove
+Dog,Levi,Lee,6,Australian Shepherd
+Dog,Elle Loki Bean,Bellie,1,Some Hybrid
+Dog,Dorthea Dix,Doge,5,Golden Retriever
+Dog,Layla Bo Peep,Layla,0.33,Pug
+Dog,Rocky,Rocky ,12,Some Hybrid
+Dog,Tillith,Tilly/TillBear,8,Some Hybrid
+Dog,Rollo,Rollo,3.5,Labrador
+Dog,Nisku,Nisku,2,Some Hybrid
+Cat,Cat,Cat,8,Domestic Long hair
+Cat,peaches,peaches,5,Persian
+Dog,Sadie Jo,Sadie or Tato,5,Labrador
+Dog,Lady,lady,9,Bernese Mountain Dog
+Dog,Sammy Q,Sam,10,Some Hybrid
+Cat,Cookie,Cookaroo ,9,Siamese Mix
+Cat,Pepper,Bebs ,4,Tabby Mix
+Cat,ipod,ipod,12,
+Cat,hank the cowcat,hank,12,
+Dog,Oliver Phish,Oliver,2,Some Hybrid
+Dog,Cleopatra,cleo,6,Italian mastiff
+Dog,Birdie,Birdir,1,Labradoodle
+Dog,Murphy,Murph,0.58,Golden Retriever
+Dog,Ryder,Ryder,14,Labrador
+Dog,Talani Snowmageddon,Milo,0.37,Golden Retriever
+Dog,Winnie the Blue,Winnie,0.91,Pit bull
+Dog,Scarlett,Scarlett,0.25,Cavalier King Charles Spaniel
+Dog,Gus,Gus,11,Golden Retriever
+Dog,Dixie Marie,Dixie,8,St. Bernard
+Dog,Heidi,Heidi,2,St. Bernard
+Dog,Phin,Phin,2,St. Bernard
+Dog,Jager,Jager,12,Labrador Retriever
+Dog,Brown Bear,Bear,7,Unknown
+Dog,Lucy,Lucy,4,Golden Retriever
+Dog,Kahlua,Chicky-chix,0.83,Mutt
+Cat,Epinephrine,Epi,9,Mix
+Dog,Baylei,Stinky,1,Labrador
+Dog,Baylei,Stinky,1,Labrador
+Cat,That Cat,T.C.,9,Mix
+Dog,Rocky,Rocky,5,Some Hybrid
+Bird,Buddy Ryan ,Buddy ,12,
+Dog,Abigail,Abby,4,Pit bull
+Dog,Kira,Kira/Squishy ,15,Beagle
+Dog,Sammy,Sam sam,6,Some Hybrid
+Dog,Piper Marie,Piper,4,Some Hybrid
+Dog,Charlene,Charlie,12,Some Hybrid
+Dog,Thor Mighty God of Thunder,Thor,9,Some Hybrid
+Dog,Cody Anne,Cody,2,Golden Retriever
+Cat,Caesar ,Jeff-jeff,9,Unknown
+Dog,Tessa,Tessa,11,German Shepherd
+Cat,Theia,Kitty,11,Domestic Long hair
+Unknown,, booger butt,Unknown,
+Unknown,, fluffybutt,Unknown,
+Cat,Minerva Mcgonagall ,Minna,5,Tabby
+Dog,Lily,Lily,10,Some Hybrid
+Dog,Butters,Butters,9,Some Hybrid
+Dog,Marigold,Marigold,8,Heinz 57
+Dog,Prince Romeo,Romey,8,Miniature Pinscher
+Cat,Teacherâ€™s Pet,Teeps,2,
+Cat,Wimpy,Wimpy,2,
+Cat,Lucy,Lucy,2,
+Dog,Snickers the First,Snickers,6,Some Hybrid
+Unknown, Head Woofer,,Unknown,
+Dog,Lucky,Lucky,3,Some Hybrid
+Dog,Ares,Ares,8,Olde English Bulldog
+Cat,Skylar ,Sweet boii,3,
+Unknown,, my beautiful baby boy,Unknown,
+Dog,Maximillian,Max,13,Golden Retriever
+Dog,Rogue,Rogue,6,Some Hybrid
+Cat,Sweety,Sweety,Unknown,Domestic Long hair
+Cat,Benny,Ben,4,Domestic shorthair
+Dog,Ace,,1,American Hairless Terrier
+Dog,Ava,,4,American Hairless Terrier
+Dog,Winnifred,Winnie,6,Some Hybrid
+Dog,Mika,Mika,8,Some Hybrid
+Dog,Charlie Elizabeth Begonias,Charlie ,5,Labradoodle
+Dog,Jack Ass,Jack,5,Some Hybrid
+Unknown,, Jackie,Unknown,
+Cat,Bean,Cat,7,
+Cat,Skipps,Skipper,1,
+Cat,Carly Q Cat,Carl,5,
+Dog,Dan,Digger,13,Pug
+Dog,Koko,Koko,4,French Bulldog
+Dog,Archibald,Archie,2,Golden Retriever
+Dog,Sassie,Sassie,19,Poodle
+Dog,Zoe,Zoe,12,Shih Tzu
+Dog,Bobo,Bobes ,10,Mutt
+Cat,Sofi,Sofi May Bofi,2,Calico
+Dog,Isiah Thomas,Izzy,0.25,Maine Coon
+Dog,Sir Pete the Pup,Pete,12,Chihuahua
+Dog,Roux Stir,Roux,8,Some Hybrid
+Dog,Lucy Scramble,Lucy,5,Boxer
+Dog,Junebug,Junebug,10,Some Hybrid
+Dog,Crinkle,Crink-a-dink,7,Rhodesian Ridgeback
+Irrelevant,George,George,Unknown,Metamorphic
+Dog,Smokey,Spooky,14,Mutt
+Dog,Daisy May,Daisy ,3,Some Hybrid
+Dog,Crimson,Crimson,9,Some Hybrid
+Dog,Tide,Tide Dog,9,Some Hybrid
+Irrelevant,Kendall Jenner ,Ken,23,Human
+Dog,Sophie,Sophie,10,Some Hybrid
+Dog,Sir Nigel Petrie of the Poofybottom Clan,Nigel,12,Some Hybrid
+Dog,Tobi,Bobo,10,Newfoundland
+Unknown,, Tib Tob,Unknown,
+Unknown,, Tibbi Bibbi,Unknown,
+Unknown,, Corn Chip,Unknown,
+Dog,Bruin,Bru ,7,Golden Retriever
+Dog,Lucinda Jean,Lucy,1,Golden Retriever
+Dog,Dave,Dave,4.5,Golden Retriever
+Dog,Harper Valley,Harper,0.25,Dachshund
+Cat,calleigh Marie ,Calleigh,14,DSH
+Dog,Buster Brown,Buster,11,Mutt
+Dog,---,,Unknown,Pug
+Dog,---,,Unknown,Beagle
+Dog,---,,Unknown,Boston terrier
+Fish,Ã˜ptifish,Ã˜ptifish,0,Orange
+Dog,Leila,Leila!!,5,Pointer
+Dog,Trixie,Trixie Treat,3,Golden Retriever
+Dog,Archer,Archibald ,9,Some Hybrid
+Dog,Josie Pancakes Fluffybottom,Josie,8,Heinz 57
+Cat,Tiger Jack,Jack,6.75,Tabby
+Cat,William Orange,Willie,6.75,Tabby
+Dog,Zeus,Zu,1.5,Great Dane
+Dog,Shooter,Shooter,8,Blue Heeler
+Dog,Ellie,Ellie,8,Labrador
+Dog,Macie,Mace,8,Golden Retriever
+Dog,Maddie,Bubbis,17,Shih Tzu
+Cat,Motown,Mo,8,Domestic Long hair
+Fish,Spot,Spot,0.5,Betta fish
+Dog,Squirt,Squirt,7,Bulldog
+Dog,Samantha Marie,Sammie,8,Mutt
+Dog,Quincy,Quincy,5,Some Hybrid
+Dog,Cajun,Cajun ,6.5,Some Hybrid
+Dog,Duke,Dukie Doo,3,Pit bull
+Dog,Daisy,Daisy Dee,3,Pit bull
+Dog,Nico,Nico,4,Some Hybrid
+Dog,Chance McCoy,Chance,10,Golden Retriever
+Dog,Kobi,Kobi,11,Some Hybrid
+Dog,Maila,Maila Moose,1,South African Mastiff
+Horse,Domino,Dommi,6,paint
+Dog,Phineas,Phin,3,Labrador
+Dog,Cody,Vody,20,Labrador Retriever
+Dog,Perry,Perry,3,Labrador
+Chicken/Hen,Gregory Peck,Greggie,2,Bantam Cochin
+Dog,Call it a night Sir Dudley,Dudley,5,Golden Retriever
+Dog,Madison Brooke,Maddy,8,Foxhound
+Cat,Pandors,Pandora,10,Unknown
+Dog,Like Francis,Luke,8,Treeing Walker Coonhound
+Cat,Bo Bo,Bo Bo,4,
+Cat,Zooey,Zooey,8,
+Cat,Mollie ,Mollie,2,Evil
+Cat,JJ,JJ,0.5,
+Cat,Jenson Button. (Last name pronounced Boo Tawn),Boo Bear,8,Mix
+Unknown,, JB,Unknown,
+Unknown,, or Button (Pronounced Boo Tawn),Unknown,
+Dog,Pilikia,Pili,14,Chihuahua
+Dog,Mia Pieper,Mia ,3,Some Hybrid
+Cat,Nova Blake,Nova,1,Tabby
+Dog,Pepper Potts,Pepper,6,Golden Retriever
+Dog,Scruffy,Scruffy,Deceased,Mutt
+Cat,Nikolai Maranov,Mr. M,12,Maine Coon
+Cat,Django,Django,16,Tuxedo cat
+Dog,Princess Jessi,Jessi,7,Unknown
+Dog,Mowgli,,1,Labrador
+Dog,---,,2,Labrador
+Dog,Wille,Willie,8,Unknown
+Dog,Otto,Otto,15,Doberman
+Cat,Momma Martha,Martha,5,DSH
+Dog,Optimus,Opti,7,Maltese
+Dog,Memphis Mumford,Memphis,2,Cane Corso Mastiff
+Cat,Antoine,Toine,8,Tabby cat
+Dog,Louie,Louie,6,Some Hybrid
+Cat,Hunter Pounce,Caracat,8,Shorthair cat
+Dog,Anna,Anna,5,Unknown
+Dog,Chester,Chester,13,Nova Scotia Duck Toller
+Dog,Zeus Theodore,Zeus,7,Schnoodle
+Dog,Ripley,Ripley,13,Golden Retriever
+Dog,Beau,Beau Beau ,4,Goldendoodle
+Dog,Lucy,Lucy,9,Golden Retriever
+Dog,Penelope,Penny,3,Maltese
+Dog,Callie,Cal,4,Golden Retriever
+Dog,Jake,Jakey poo poo head,2,Goldendoodle
+Dog,Willie,Willie,2.5,Some Hybrid
+Dog,package,package,1,Some Hybrid
+Cat,Algernon ,Algy,11,
+Unknown,, Gu,Unknown,
+Cat,Pickles!,Pickles or Pumpkin or Cutie Pie or Little Darlin,3,Tortie
+Cat,jiblit,tiny jib ,1,
+Dog,Luna,Luna,5,Yorkie
+Dog,Delilah,Lila,4,Labrador
+Cat,Celie,Celie,7,Tabby
+Cat,Sophie,Sophie,7,Tabby
+Cat,Oliver Wendell Holmes,Oliver,9,
+Dog,Josephine,Josie,4,Some Hybrid
+Dog,Russell D.,Rusty,9,Mutt
+Dog,Excalibur Insubordinate Oâ€™Mallie IX,Cali ,2,Golden Retriever
+Dog,Darth Vada Mae,Vada,7,Some Hybrid
+Cat,Felix,Felix,12,Domestic shorthair
+Dog,Butterscotch,Butters,9,Mutt
+Dog,Emma Jean Jelly Bean,Emma,13,Shih Tzu
+Cat,Binky,Binky,2,Domestic shorthair
+Cat,Sox,Sox,10,Domestic shorthair
+Dog,Rigby,Rigs,6,Boston terrier
+Dog,Sir Scribbles Of the Shire,Scribbles,5,Shih Tzu
+Cat,Herbert Fitzgerald,Bertie,3,Ragdoll
+Cat,Gary,Gary,3,Tabby
+Cat,Cassandra,Cassie,7,Siamese Mix
+Cat,Moose,Moose,0.1,Calico
+Dog,Tele,Tele,11,Labrador
+Dog,Maggie,Pooper,14,Dachshund
+Cat,Daniel,Daniel,16,Oriental Shorthair
+Cat,Kitty,Kitty,16,DSH
+Dog,Daisy Mae,Daisy,11,Golden Retriever
+Dog,Bug,bug,6,Jack russel mutt
+Dog,Rayven,Ray,6,German Shepherd
+Dog,puppy girl,puppy,4,Jack Russell
+Dog,beyoncÃ©,beyoncÃ© ,2,Chihuahua
+Dog,Pippa Mad,Pippa,2,Havanese
+Dog,Tails Balboa,Tails ,14,Chihuahua
+Dog,Tara Balboa,Tara,6,Chihuahua
+Dog,Mia,Mimi,1,Chihuahua
+Dog,Slainte,Slainte,12,Chiweenie
+Cat,Persephone,Persnuffy,11,
+Cat,Piper,Pipes,1,
+Cat,Belle,Tiny Kitten,12,
+Cat,Nyx,Nyxapooski,8,
+Dog,Clyde Frog the Dog,Clyde ,3.75,Labrador
+Cat,Baby Tiger,Tiger bub,11,
+Cat,Havoc,BB,2,
+Dog,Asher,Ashie,9,Golden Retriever
+Dog,Miley,Miley,13.5,Mutt
+Cat,Tux,Monsieur Tux,2,
+Horse,Paisley Desert Melody ,Melody,7,Mustang (horse)
+Dog,Suzie,Suzie,5,Labrador
+Dog,Joshua,Joshie,9,Golden Retriever
+Dog,Kona Kai,Kona,2,Mutt
+Dog,---,,Unknown,Golden Retriever
+Cat,Simba,Simba,6,DSH (He orange)
+Dog,Charlie,Charlie,11,Boston terrier
+Turtle,Lucky,Lucky,Unknown,Desert tortoise
+Cat,Duncan,Duncan,5.5,n/a
+Dog,Lucky,Lucky,4,Labrador Retriever
+Dog,Lily Ann,Lily,3,Golden Retriever
+Dog,Robbie,Robbie,10,West Highland Terrier
+Dog,Chance,Chance ,4,Labrador Retriever
+Cat,Mir Hector,Mir,11.5,Domestic shorthair
+Cat,Clover,Clo,3,
+Cat,Lacerta Grace,Laci,11,Domestic shorthair
+Dog,McGregor,Gregs,11,Scottish Terrier
+Cat,Mosephus,Mo,4,
+Dog,Maggie,Mags,6,Corgi
+Unknown,, maggals,Unknown,
+Dog,Boo Radley Beauregard,Boo,5,Some Hybrid
+Cat,Pictor James,Pictor ,8,Lynx point Siamese
+Cat,Yellowie,Old man,19,
+Cat,Sylvio,Syl,14,
+Dog,Jean Louise,Scout,2.5,Golden Retriever
+Cat,Cooper Kent DeGroat,Cooper/Tooper,1,Tuxedo cat
+Dog,Java Joe,Joe,0.14,Corgi
+Dog,Heidi hoho,Heidi,7,Unknown
+Dog,Finlay Heisenberg,Finn,8,Shetland Sheepdog
+Cat,Porkchop ,Porkie,4,Rescue
+Dog,Nala Belle,Nala,11,Golden Retriever
+Cat,Lila,Lielee,10,Domestic Long hair
+Dog,Matelin Paco Junior,Mate,9,Australian Shepherd
+Cat,Applesauce ,Apple,2,Rescue
+Dog,Eddie,Eddie,8,Chihuahua
+Dog,Sir Thompson Squigglebutt,Tommy,7,Chihuahua
+Dog,Miss Kasey Bubbles,Kasey,8,English Setter
+Dog,Angel,Angel,9,Golden Retriever
+Dog,Loosie,Goose,15,Whippet
+Bird,Ruby ,Ruby,2,Parakeet
+Dog,Sophie,Sophie,14,Whippet
+Lizard,Robert ,Robbie,1,Leopard gecko
+Dog,Douglas,Douglas,10,Basset Hound
+Dog,Zoi,Z,1,English Setter
+Cat,Menke,Menke,4,Manx
+Dog,Jasper,Jasper,14,Whippet
+Dog,Rupert,Roo,3,Basset Hound
+Dog,Spencer,Spence,10,Pointer
+Dog,Sir Clyde Bootsie Sideeye,Clyde ,11,Chihuahua
+Dog,Daisy Mae,Daisy,7,Goldendoodle
+Dog,Teddy Bear,Teddy,11,Chow chow
+Dog,Edward Gene,Eddy,15,Golden Retriever
+Dog,Peaches Monroe,Peaches,4,Jack Russell Terrier
+Dog,Sir Nicholas,Nick,9,Corgi
+Dog,Eowyn,Eo,13,Shih Tzu
+Dog,Jayden,Denden,8,Shih Tzu
+Dog,Joey,Jo,1,Golden Retriever
+Dog,Walker Texas Ranger,Wally,1,Some Hybrid
+Dog,Mike Mussina,Moose,1,Some Hybrid
+Cat,Azuca,Zucchini,8,
+Cat,Lady Bluebelle,Bluebelle,16,DMH
+Dog,Demon Deacon,Deke,13,Golden Retriever
+Dog,benny the tiny von hudehoff,benny,5,Yorkshire Terrier
+Dog,Jacky,Jack,3,Golden Retriever
+Dog,Gigi,Gigi,10,Golden Retriever
+Dog,Liontamerâ€™s Nelson M Mandela,Nelson ,2,Rhodesian Ridgeback
+Dog,Toby,Toby,12,Golden Retriever
+Dog,Sugar,Sugar,13,Some Hybrid
+Cat,Rey,Rey,2,
+Dog,Mackley,Mackey,4,American Bulldog
+Cat,Gordon BaNarNar,Gordon,6,Tabby
+Dog,Sugar,Sugar,5,Golden Retriever
+Dog,Minnie,Minnie,10,Min pin
+Dog,Meeko letang,Bubby,3,Rough collie
+Cat,Mephistopheles,Felix,11,DSH
+Unknown, der leibhaftige Teufel,,Unknown,
+Unknown, Lord of the Underworld,,Unknown,
+Unknown, Bringer of Darkness  ,,Unknown,
+Dog,Oddjob,Jobby,11,Pug
+Cat,River,River,8,Orange tabby (DSH)
+Dog,Charleston Wesley,Charlie,1,Goldendoodle
+Dog,Shelby,Shelb ,0.25,Mutt
+Dog,Barracuda,Cuda ,0.25,Some Hybrid
+Hamster,Lilapution Marie,Lilla,0,
+Dog,Daisy,Daisy,5,Labrador
+Dog,Moose Van Haus Huenink,Moose,3,Rottweiler
+Dog,Princess Bella Marie,Bella,11,Some Hybrid
+Hamster,Turtle Dove,Turtle,0,Syrian
+Dog,Geno Stoneycreek Pugh,Beans,2,Rottweiler
+Cat,Axel daxel,Axel,9,Domestic shorthair
+Fish,Michael Lee,Michael ,0.9,Betta fish
+Cat,Babe Ruthy,Babe,9,Domestic shorthair
+Dog,Sadie Mae,Sadie,6,German Shorthaired Pointer
+Chinchilla,Stanley ,Stan Bug,0,
+Dog,Ruby Sue,Ruby,3,Blue Tick Coon Hound
+Bunny,Richard Fineman,Richie,4,
+Dog,Zoey,Zoey/zozo,8,Golden Retriever
+Dog,Apollo,Apollo,10,Boxer
+Dog,Petey,Pete,11,Some Hybrid
+Cat,Scuto,Scutie,10,Burmese
+Dog,Sadie Blue,Sadie,9,Some Hybrid
+Dog,Mira,Weetum,13.5,Labrador
+Dog,Ginger,Ginger,8,Some Hybrid
+Cat,Cookie Dough,Miss Dough,6,Cat
+Tortoise,Kachu,Kachu,4,
+Dog,Hairy Potter,Hairy,12,Smol terrier
+Dog,Cricket,Crickita ,12,Shih Tzu
+Dog,---,,Unknown,Miniature Dachshund
+Dog,Xenia Marie,Xenia,8,German Shepherd
+Guinea Pig,Potato,Tot,3,Abyssinian Guineapig
+Dog,Daisy Mae,Daisy,12,Cairn Terrier
+Chinchilla,Ashe,Ashe,3,American standard chinchilla
+Fish,Mr. Moesby,Mr. Moesby,3,Goldfish
+Fish,Helen,Helen,3,Goldfish
+Dog,Skylar,Sky dog,15,Mini Aussie
+Dog,Maybus Dogstoevsky,Maybe,11,Treeing Walker Coonhound
+Dog,Kahlua,Louie,7,Mini Aussie
+Unknown,, LouLou,Unknown,
+Unknown,, KaHULA,Unknown,
+Unknown,, FlufferNutter,Unknown,
+Cat,Foster,Foster,13,Domestic shorthair
+Cat,Reese,Reese,13,Domestic shorthair
+Dog,Maggie pie thatcher,Maggie,0.33,Blue lacy
+Dog,Ashildr,Ashy,1,Boxer
+Dog,Elsa,Stinky poo poo,17,German Shepherd
+Dog,Belle,Stinky poo poo too,17,Golden Retriever
+Cat,Mufasa,Mufasa,14,Yellow tabby long hair
+Dog,Zeus,Zeusy,8,Some Hybrid
+Guinea Pig,Niblet,Fat pig,4,Guinea Pig
+Dog,Molly,Miss Pants,6,Some Hybrid
+Cat,Valerie Spaceship Pizza Party,Bubba,6,Domestic shorthair
+Hamster,Penelope,Penne,1,Syrian
+Cat,Peanut,Peenie paneenie,0.3,Calico
+Cat,Jupiter,  Monsieur Jups,6,Domestic shorthair
+Dog,Chip,Chippy,13.5,Labrador
+Unknown,, Chipper,Unknown,
+Unknown,, Dumbo,Unknown,
+Unknown,, or Chipper Dipper,Unknown,
+Dog,Chewustuffer Asshole,Chewy,2,Golden Retriever
+Dog,Sailor Moon,Either Sailor or Moon,4,Newfoundland
+Dog,Navigatorâ€™s Sipsey River PrinceS,Sipsey,11,Labrador Retriever
+Dog,Buddy,Bud,9,Border Collie
+Dog,Brown Butter Biscuit,Biscuit,12,Labrador Retriever
+Dog,Millie,Lil mil,13,Some Hybrid
+Dog,Jonah,Jonah,5,Labrador
+Dog,Diggs,Diggs,9,Australian Cattle Dog
+Bird,Gudlaguba,guba,2,
+Dog,Herman,Hermie,14,Dachshund
+Unknown,, Herm-Derm,Unknown,
+Unknown,, Herbie,Unknown,
+Unknown,, Herm-Worm,Unknown,
+Cat,Isis,Isis,9,Domestic shorthair
+Dog,Datsyuk,Datsyuk,0.66,Some Hybrid
+Dog,Nightwing,Nightwing,6,Lhasa Apso 
+Dog,Isabella,Bella,5,German Shepherd
+Dog,Princess Buttercup,Princess,4,Lhasa Apso 
+Dog,Sir Jake of Zoar,Jake,11,Labrador
+Cat,Michael Theodore Wazowski,Mike,2,Fuzzball
+Dog,Scout,scout,6,King Charles
+Dog,Aluxe,Aluxe,14,Poodle
+Dog,Brownie,brownie,11,King Charles
+Cat,Catsby,Catsby,12,Domestic shorthair
+Rabbit,Clementine the Lemon,Clem,7,
+Dog,Shelby May,Shelbs,6.1,Some Hybrid
+Dog,Mr. Henry Midas Darcy,Henry,7,Golden Retriever
+Cat,Hermes,Hermes,10,Unknown
+Dog,Annie Reese,Annie,11,Some Hybrid
+Dog,Blackjack,Blackjack,3,Some Hybrid
+Cat,Dolly Madison ,Dolly,11,American shorthair
+Cat,Franklin Roosevelt ,Franklin,16,Siamese
+Cat,Abby,Abby,2.5,
+Dog,Jaden,Jaden,8,Unknown
+Dog,Sophie,Soph,9,Golden Retriever
+Cat,Elizabeth Bennet,Elizabeth,13,Domestic Long hair
+Unknown,, no!,Unknown,
+Cat,Amadeus,Booboo,13,Domestic Long hair
+Dog,Petey,Petey,11,Golden Retriever
+Dog,Jack,Jackson,11,Golden Retriever
+Dog,Bella,Bell,8,Pug
+Dog,Starsky Buford,Starsky,7,Foxhound
+Prairie Dog, Beatrice,Trixie,5,Mexican black tailed
+Dog,Quito,Kiki,4,Unknown
+Dog,Wiggins,Wiggs,3,Some Hybrid
+Bird,Aretha,The broody one,1,Black star hen
+Snake,Stanley,Stanley,1,Ball python
+Dog,Bella,Smelly Belly,13,Weimaraner
+Hermit Crab,Golddigger,Goldie,Unknown,Australian
+Dog,Maple,Mapie,0.41,Shiba Inu
+Unknown,, Mapes,Unknown,
+Dog,Sara,Sara,8,Polish Tatra Sheepdog
+Bees,Professor McGongall (the queen),Hogwarts (the hive),Unknown,
+Dog,Clementine,Clem,5.5,Coonhound
+Dog,Ali May,Ali,12,Some Hybrid
+Dog,Aspen,Ass-pen,3,Coonhound
+Dog,Amber,Amber,2,German pointer
+Guinea Pig,Diego,Dego Bear,3,
+Guinea Pig,Linus,Linus,1,American guinea pig
+Dog,Coquine,Ti-Chat,15,Maltese
+Guinea Pig,Colby,Colbs,3,
+Dog,Medley May,Med head/big medley,8,Great Dane
+Dog,Maggie,Mag bag ,3,Great Dane
+Dog,Finn Jethro,Finny,7,Poodle
+Dog,Tallulah Lilac,Lulah,4,Poodle
+Dog,Bear,Bear,6,Husky
+Cat,Fuji,Worm,9,Domestic house cat
+Dog,Emily,Emily,7,American Pitbull
+Dog,Winifred Yankeestaff Arnone,Winnie,13,English Staffordshire Bull Terrier
+Dog,Bella,Bella,9,Shih Tzu
+Dog,Mocha Latte,Moch,2,Golden Retriever
+Dog,Bentley Rockstaff Jardine Arnone,Bentley,0.83,English Staffordshire Bull Terrier
+Cat,Lili,Lili,11,Russian Blue
+Dog,Freddie Mercury,Freddie,15,Miniature schnauzer
+Dog,Einstein Pancake,Einstein ,11,Shih Tzu
+Cat,Kit Marlowe,Marlowe,11,Domestic shorthair
+Dog,Sir Eggs Benedict,Benny,2.5,Pembroke Welsh Corgi
+Dog,Bandit,Ban ban,8,Husky
+Cat,Beauregard Montgomery Cat,Beau,3,Black and White
+Dog,Mac,Mac,5,Border Collie
+Dog,Shepherd E Stoltzfus,Shep,5,Border Collie
+Dog,Cinnamon,Chinamon,4,Some Hybrid
+Rabbit,Greta,Greta,13,Mini Rex
+Dog,Rocky Ciroc,Ciroc,6,Bichon Frise
+Cat,Cloudy,Cloudy,9,
+Cat,Sunny,Sunny,5,
+Dog,Jack,Jack,2,Miniature Dachshund
+Dog,Baldrick of Blackadder Bob,Bob,14,Miniature schnauzer
+Dog,Danny,Danny,Deceased,Pomeranian
+Dog,Troy,Sweetie,9,Some Hybrid
+Dog,Lavender,Lav,8,Pit bull
+Dog,Buddy,Mr. B,6,Golden Retriever
+Dog,Chase,Chase,6,Boxer
+Dog,Charlotte,Charlie,8,Border Collie
+Dog,Ice,Ice,14,Some Hybrid
+Fish,Alpha (the Beta),Alpha,0,Betta fish
+Dog,Dolly,Dolly,7.5,Some Hybrid
+Dog,Geoffrey,Geoffrey ,1,Maltipoo
+Rabbit,Aragorn,Strider,5,Dwarf lop
+Rabbit,Arwen ,Arwen ,4,Lion head dwarf lop
+Dog,Holly,Holly,8.5,Golden Retriever
+Dog,coco pollybird,coco,10,Cocker Spaniel
+Dog,Tim,Tim,12,Beagle
+Dog,Magui Josefina Primera Mercado,MoÃ±oÃ±ito,16,English Cocker Spaniel
+Turtle,Robustiana,Robby,5,
+Dog,Scooby,Scoob,Unknown,American cocker Spaniel
+Dog,Balto JosÃ©,Bartolo,6,Unknown
+Bird,LulÃº Anastasia,Pollo,16,
+Dog,Xena Badass McAwesome Princess Flufflepuffs of the Ashen Fields of Mordor,Xena,6,Golden Retriever
+Dog,Wilbur,Wilby ,6,Some Hybrid
+Dog,Rowena Ravenclaw,Puppy,3,Rhodesian Ridgeback
+Dog,Magnificent,Maggie,7,Some Hybrid
+Dog,Nova,Scoosh ,0.58,Cocker Spaniel
+Dog,Penny,Penny,12,Ray terrier
+Cat,Jasper ,Jasper,8,
+Dog,Maisie taters,Maisie ,2,Some Hybrid
+Dog,Guinness,Guinness ,9,Australian Shepherd
+Dog,Johnny Bee,Johnny ,5,Some Hybrid
+Cat,Emma,Emma-zoo ,21,Calico
+Dog,Mayflower,May,12,Labrador
+Cat,Benjamin ,Ben,6,
+Dog,Roscoe,Roscoe,13,Beagle
+Cat,Pitted bear ,Pits ,6,
+Cat,Lily ,Lily,20,
+Cat,Maggie,Maggie,19,
+Cat,Tom,Tomsl,18,British Shorthair
+Cat,Gerri,Gerri,17,British Shorthair
+Dog,Ashley,Ashley,5,English Cocker Spaniel
+Cat,Moritz,Mori,8,None
+Dog,Janis,Janis,7,Unknown
+Dog,Leonardo,Leo,7,Pekingese
+Rabbit,Cheeky,Twatty,5,
+Cat,Tyler,Doofus,11,Domestic shorthair
+Dog,Ceili Kibbles,Ceili (pronounced K-Lee),10,Golden Retriever
+Cat,Kiki,Kikster,11,Domestic shorthair
+Dog,Charlie,Charlie,0.41,Bernese Mountain Dog
+Cat,Oreo,Oreo,0.2,Shorthair
+Cat,Ichi,Itch,8,
+Fish,Mussel ,Muss,3,Unknown
+Dog,Mango,Mango,2,Unknown
+Hamster,Muffin,Muffin,2,
+Dog,Rufus,Roofie,14,Golden Retriever
+Dog,Daisy,Daze,0.33,Golden Retriever
+Dog,Lily,Lils,13,Golden Retriever
+Dog,Bertie,Bertie Boy,0.33,Golden Retriever
+Dog,Max,Bear,7,Akita
+Dog,Molly,Moo,7,Beagle
+Dog,Poppy,Poppy dog,2,Golden Retriever
+Dog,Daisy,Daisy dog,2,Golden Retriever
+Cat,Nica-Nu,Nica-NO-GIVE-THAT-BACKQ,1.7,British Shorthair
+Cat,Meredith,Mer,8,
+Dog,Koda,Koda,9,Golden Retriever
+Dog,Elwood,Elwood,9,Golden Retriever
+Dog,Jake,Jakey,9,Golden Retriever
+Cat,Blizzard,White,13,
+Cat,Hemingway,Hemi,9,
+Cat,George,Porge,11,
+Dog,Miles,Miles,8,Labrador
+Cat,Sherbert,Sherbert ,1,
+Cat,Liesje,Liesje,5,Tortoise shell
+Dog,Indiana,Indy,10,Springer Spaniel
+Cat,Diego Maradona,Degs,3,
+Dog,Maximus Harvey,Max,2,Golden Retriever
+Cat,Paco ,PAC man ,2,
+Dog,Douglas Ray Richardson the Third,Doug ,6,Red heeled
+Guinea Pig,Wilbur,Wilbur,1,n/a
+Guinea Pig,Vincent,Vinnie,1,n/a
+Dog,Harley,Gnarly,4,Pug
+Tortoise,Taco,Taco,7,Russian Tortoise
+Dog,Buster,Busty ,14,Jack Russell
+Dog,Alfie,Alfie Dude,14,Jack Russell
+Dog,Mila,Mila,9,Some Hybrid
+Dog,Zero,Boydog,10,Rhodesian Ridgeback
+Rabbit,Cirkeline,Cirkeline,7,Mixed
+Dog,Bella Nina,Bella,7,German Shepherd
+Dog,Thomas James, Tom,4,German Shepherd
+Dog,Archie, Archie,0.33,German Shepherd
+Cat,Mao. (As in Chairman Mao,Mao ,14,Moggy
+Unknown,  not miaow or Mayo. ,,Unknown,
+Dog,Briggs,Briggy,10,Some Hybrid
+Dog,Mya (The Dog),My,13,Labrador
+Cat,Dee Dee ,Dee,13,
+Dog,Neela,Neely ,8,Shih Tzu
+Dog,Hank,Hankle ,2,Blue Heeler
+Dog,Button,Button,7,Cockalier
+Dog,Missy Princess,Missy,14,Cocker Spaniel
+Dog,Prince,Prince,7,German Shepherd
+Dog,Samuel,Sam,8,Golden Retriever
+Cat,Wolfe,Buddu,11.5,Domestic shorthair
+Cat,Muppet,Muppy,6,Tabby
+Bird,Bruce,Brucey,10,Budgerigar
+Dog,Precious Fudge,Miss Precious,12,Labrador
+Dog,truffles,truffs ,11,chocolate poodle
+Dog,woodland,woody ,4,Long-haired Chihuahua
+Rat,Tomasa,Tommy,1.8,
+Dog,Heath M&M,Mr. Peaf,8,Australian Cattle Dog
+Dog,Mosley,Mr. Mosley,6,Pit bull
+Dog,Peter,Mr. Peter,3,Unknown
+Cat,Miss Lucy,Lucy,4,Siamese
+Cat,Miss Molly,Molly,3,
+Cat,Luna,Luna,0.3,Ragdoll
+Dog,Sammy,Sammy,12,Some Hybrid
+Dog,Theodore Barkalot,Teddy,8,Bichon Havanese
+Chicken/Hen,Delphine,,2,Speckledys
+Dog,d'Artagnan,Dart,17,Pug
+Cat,Fire,Fire,0.2,Shorthair
+Cat,Ash,Ash,0.2,Shorthair
+Cat,Kami,Kam,1,Long hair
+Cat,Kit Kat,Kit,0.1,Medium hair
+Dog,Celsius Pele Amadeus Cartier,Celsius,11,Labrador Retriever
+Dog,Lando Calrisian,Lando,4,Labrador
+Dog,Obi-Wan,Obi,2,Labrador
+Dog,Titus Sirius Icarus Cartier,Titus,10,Labrador Retriever
+Dog,Samuel T Dogg,Sam,8,Labrador
+Cat,Puka Shell,Puka,3,
+Cat,Lily Pad,Lily,15,
+Dog,Oreo Ann,Oreo ,11,Unknown
+Dog,Oliver,Ollie,7,Unknown
+Dog,Stamford,Stamford,10,Bichon Frise
+Dog,Bentley,Bentley,4,Labrador
+Dog,Lulu,Lulu,10,Jack Russell
+Dog,Ella,Elephant,8,Some Hybrid
+Dog,Roxy,Roxy,5,German Shepherd
+Cat,Andrew Angela,Andie,15,American shorthair
+Cat,Cricket,Creekee,8,American shorthair
+Dog,Desmond,Dez,8,Labrador
+Cat,Tallulah May ,Chunky butt,2,American shorthair
+Dog,Stella,Stella ,9,Some Hybrid
+Cat,Snowflake ,Snow / Snowy,11,Maine Coon mix
+Dog,Sheena,Beena,12,Golden Retriever
+Cat,Rico,Rico,13,
+Cat,Sirius Black ,Chonk,4,
+Cat,Bellatrix Lestrange,Bella,2,
+Dog,Perry the Poodle,Perry ,2,Poodle
+Dog,Cody the Corgi,Cody,3,Pembroke Welsh Corgi
+Cat,Princess Penelope Pineapple Pizza,Kitty,3,Calico
+Cat,Mel,Melzinga,3,
+Dog,Ginevra Molly,Ginny,0.37,Golden Retriever
+Cat,Mel de Melissa Duarte Brandizzi,Mel,3,
+Cat,Mila Vilela Brandizzi,Mila,1,
+Cat,Sushi,Baby / Sushi Burger ,14,Black cat
+Dog,Riley,Riley or Ri (pronounced RHY),4,Husky
+Unknown,, but then thereâ€™s a bunch of nicknames like (Riley Roo,Unknown,
+Unknown,, Roo,Unknown,
+Unknown,, Ri Ri,Unknown,
+Unknown,, Bud,Unknown,
+Unknown,, Buddy,Unknown,
+Unknown,, Bub,Unknown,
+Unknown,, etc),Unknown,
+Dog,Cleopatra,Cleo,3,Greyhound
+Dog,Coco,Coco,10,Corgi
+Dog,Captain,Captain aka Cappie,14,Husky
+Dog,Buddy,Buddy,8,Mutt
+Dog,Magnolia Mae,Maggie,2,Corgi
+Dog,Sam,Sammy,5,Border Collie
+Frog,Lily,Lily,1,
+Dog,Zoey,Zo,4,Mutt
+Cat,Sammy,Sammy,9,
+Cat,Tika,Tika,8,
+Cat,Prince William,William,9,
+Dog,Chip,Chippers ,2,Golden Retriever
+Spider ,Rosie ,Rosie ,6,Chilean rose hair tarantula
+Cat,Zoey,Zoey,5,Tabby
+Cat,Stella Lou,Stella,2,Tabby
+Dog,Snickers,Snick ,8,Labrador
+Dog,Max,Max,12.5,Labrador
+Dog,Leeloo,Leeloo,2,Labradoodle
+Dog,Owen,Owen,13,Rhodesian Ridgeback
+Dog,Daisy May,Daisy,11,Golden Retriever
+Cat,Maria ,Maria ,8.5,Mix
+Dog,Sunshine,Sunny,4,Pyrador
+Cat,Penelope ,Penelope ,9,Calico
+Gecko,Pebbles,Peb,4,Leopard gecko
+Dog,Freskin,Fattima Bouffants,13,Labrador Retriever
+Dog,Philippa,Pippa,4,American Hairless Terrier
+Dog,Lillie (Lilian now that sheâ€™s older),Lillie,5,Boxer
+Cat,Callie,Callie,15,
+Dog,Dr. Wolf Barker,Wolfie,7,Some Hybrid
+Dog, MD PhD DOG,,Unknown,Unknown
+Dog,Toby,Tobias,10,Bichon Frise
+Cat,Mackintosh,Milo,10,Street corner
+Dog,Alice,Alicima Bouffants,11,Bichon Frise
+Dog,DeeDee,Deedle Dumpling,10,Bichon Frise
+Dog,Oliver,Oliver,12,Bichon Frise
+Dog,Reuben,Reuben,12,Bichon Frise
+Dog,Mowgli, Mowgli,3.5,Some Hybrid
+Unknown,, Mr. Tude (when he's sassy),Unknown,
+Dog,Toby,Toby,12,Labrador Retriever
+Gerbil,Salt,Salt,2,
+Gerbil,Pepper,Pepper,2,
+Cat,Shaka,Shaka,9,Siamese
+Cat,Zia,Zia,12,Siamese
+Dog,Buddy,Buddy,11,Some Hybrid
+Dog,Bella Sitka LASTNAME,Bell,15,Mianture American Eskimo
+Unknown,, Bella,Unknown,
+Unknown,, Pretty,Unknown,
+Dog,Monty,Montgomery of Fitzgerald,8,Labrador Retriever
+Dog,Luna Lastname,Luna,0.75,Doxin
+Unknown,, Loon,Unknown,
+Unknown,, Loonie,Unknown,
+Unknown,, Miss Loon,Unknown,
+Unknown,, Wiggles,Unknown,
+Bird,Vaillante,Vaillant,5,
+Dog,Echo Last Name,Echo,12,Mianture American Eskimo
+Dog,Nuffin,Nuffin,6,Golden Retriever
+Cat,Tauriel,Tauriel,4.5,Domestic shorthair
+Cat,Garbanzo,Bean,4,Domestic shorthair
+Dog,Mars,Chano ,9,Corgi
+Dog,Calhoun Richard Anderson du Nord,Cal,3.5,Golden Retriever
+Dog,Charlie Brown,Charlie,10,Labrador Retriever
+Unknown,, Charizard,Unknown,
+Unknown,, Charles,Unknown,
+Dog,Bixby Lucas,Bixby,1,Labrador
+Cat,Luna Linetti,Luna,1,Black cat
+Dog,Taco,Taca Taca,13,Some Hybrid
+Unknown,, snorticus,Unknown,
+Dog,Belle,Jelly Belly,3,Some Hybrid
+Dog,Jimmy,Jimmy,3,Jack Russell Terrier
+Hamster,Wobbles,Wobbles,0.8,Syrian Hamster
+Cat,Buddha,Buddha,15,Domestic shorthair
+Dog,Miles,Miles,10,Redbone Coonhound
+Dog,Eleanor Rose,Elly,5,Golden Retriever
+Cat,Charlotte May,Charlotte ,4,Brown and white tabby
+Dog,Cooper Jay Nigel Winston,Cooper,8,Some Hybrid
+Dog,Buddy Augusto,Buddy,14,Cocker Spaniel
+Dog,Dash,Dash,7,Some Hybrid
+Cat,Calvin Coolidge Cat,Cal,17,Siamese
+Cat,Gracie Coolidge Cat,Gracie,16,Russian Blue
+Dog,Opie,Dope/ Opie,11,Golden Retriever
+Dog,Georgia,Georgia ,8,Unknown
+Cat,Emile,Mealsies,6,French Charteux
+Cat,Zoe,Zoe,3,Mixed breed cat
+Cat,Malcolm,Mal,3,Tabby
+Dog,Dino,Dino,13,Keeshound
+Cat,Molly,Molly magoo,1,Mixed
+Cat,Bruce Springsteen,Bruce,24,Cat
+Dog,Penny,Penny,10,Beagle
+Dog,---,,Unknown,Miniature Pinscher
+Cat,Raven,Raven,6,Black shorthair cat
+Cat,Clarabelle,Clarabelle,7,Polydactyl shorthair cat
+Dog,Alexâ€™s Fiesty Girl Bailey Balogh,Bailey,10.5,Golden Retriever
+Dog,Rey,Reymundo,2.5,Jack Russell
+Dog,Uwe,Uwe,4,Unknown
+Dog,Millie Betty,Mill,1.5,Dalmatian
+Dog,Henry,Henny,1,Dalmatian
+Dog,Daisy May,Daisy ,13,Mutt
+Dog,Chamomile June,Cammie,9,Cocker Spaniel
+Dog,Chapman,Chapman,15,Labrador
+Dog,Tucker,Tucker,0.75,Mini Australian Shepard
+Dog,Chappelle,Mutt,7.9,Some Hybrid
+Cat,Wilhelmina Rae,Willa,5,
+Cat,Frances Louise,Frankie,6,
+Cat,Victoria Susan,Tori,6,
+Cat,Ossana Mae,Ossie,5,
+Dog,Bella,Bella,11,Greater Swiss Mountain Dog
+Dog,Toby Wan Kenobi,Toby,1,Golden Retriever
+Dog,Daisy,Daisy,12,Labrador
+Dog,Beaucoup du Chien,Beau,Deceased,Newfoundland
+Dog,Pumpkin,Pumpkin,Deceased,Labrador
+Dog,Poquit,Poquit,Deceased,Labrador
+Cat,Orange Laurie,Orie,Deceased,
+Cat,Sunset,Sunny,Deceased,
+Dog,Rosie,Rosie,9,Golden Retriever
+Cat,Matilda,Matilda ,4,DSH (tuxedo)
+Dog,Murphy,Murphy,10,Yorkshire Terrier
+Dog,Giacomo Science,Giacomo,6,Bernese Mountain Dog
+Dog,Zuul,Zuul,5,Some Hybrid
+Unknown, minion of Gozer,,Unknown,
+Dog,Trogdor Jealous,Dora,14,Some Hybrid
+Cat,Idalou,Lou,Unknown,Domestic shorthair
+Dog,Professor Tuxedo,Tux,1,Bernese Mountain Dog
+Dog,Bodie,Bodie,8,Golden Retriever
+Dog,Zoey,Zoey,5.5,Labradoodle
+Cat,Eddy Jefferson,Eddy,4,Cat
+Dog,Joel Carlos,Joel,3,Beagador
+Dog,Lola,Lola,1,English Cocker Spaniel
+Cat,Margot Mae,Margot,4,Domestic shorthair
+Dog,Rufus,Rufus,15,Cairn Terrier
+Dog,Sadie,Bubba ,12,Golden Retriever
+Cat,Chester,Kiddo,1,
+Dog,Zoey Deschanel,Zo ,12,Bichon Frise
+Dog,Cooper,Coop ,6,Golden Retriever
+Dog,Captain Goose,Goose,1,Unknown
+Dog,Mr Doctor Professor Constable Detective Brick,Brick,8,British Bulldog
+Dog,Ellie Sattler,El,1,pibble
+Cat,Lily,little shit,4,
+Dog,Juke,Juke,4,Dachshund
+Dog,Blue,Blue,0.5,Labrador
+Dog,Kiefer Bartholomew,Kief ,9,Belgian Shepard
+Dog,Jackson,Jax,5,Labradoodle
+Cat,Marzipan,Pan,2,
+Dog,Zeta bear,Bear,6,German Shepherd
+Cat,Sunny,Sun Bun or just Bun,0.1,
+Hedgehog,Professor Minerva McGonaquill,Minnie,2.5,African Pygmy
+Dog,Minnie,MinniePin,2,Mutt
+Fish,Fsh ,Fsh,10,Mexican Blind Cave Tetra
+Unknown,,,Unknown,it was born with no eyes (so it has no â€œiâ€™s in its name))
+Dog,Dixie,Dixie,15,Some Hybrid
+Dog,Rosa Barks,Rosie,11,Shih Tzu
+Dog,Charlie,Charlie,0.2,Cavapoo
+Dog,Jack Dog,Jack,16,Mutt
+Cat,Minerva,Minny,6,
+Dog,Timon,Timon,3,Mutt
+Dog,Leila Fowler-Martinez,Leila or Pinche Leila ,7,Unknown
+Dog,Tubu,Tubu,11,Chihuahua
+Cat,Venus,Kitty,11,Short haired calico
+Dog,Goodness Gracious,Gracy ,12,Shih Tzu
+Dog,Monkey,Monkey,11,Australian Shepherd
+Cat,Jynx ,Jynx,4,Domestic medium hair
+Dog,Rosie,Rosie Posie,Deceased,Golden Retriever
+Cat,Wendy,Wendy,3,Domestic shorthair
+Hamster,katya,chicken (idk why),2,Russian Dwarf Hamster
+Dog,Scirocco Augustus,Rocco or Crocco,5,Treeing Walker Coonhound
+Dog,Heavy Duty Puppy,Duty,4,Sheltie
+Rabbit,Arthur,Arturo,5,English Lop
+Cat,Jack,Kitty boy ,6,Tabby Mix
+Dog,Siena Rosa,Siena,12,Golden Retriever
+Dog,Buttercup Maplesde,Butternut,2.5,Unknown
+Dog,zuez Maplesden, zuzy ,2.5,Unknown
+Dog,Bella Maplesden, Bella,2,Some Hybrid
+Cat, Hercules Maplesden, Hercules.,2,Tabby cat
+Dog,Ghia Lynn,Ghia or Geeg,1,Border Collie
+Dog,Delilah,Lilah,7,Beagle
+Cat,Baileyâ€™s Irish Cream,Bailey,13,Siamese Mix
+Dog,Treacle,Treacle,10,Some Hybrid
+Dog,Sam,Sam,11,Labrador
+Dog,Tyson,Tysbert,14,Some Hybrid
+Unknown,, T McT,Unknown,
+Unknown,, Mucki,Unknown,
+Unknown,, Muckelbert,Unknown,
+Unknown,, Muckmuck,Unknown,
+Unknown,, Maggey,Unknown,
+Cat,Madison Square Garden,Square,2,
+Cat,Garfield,Cooter ðŸ˜³,8,Orange tabby (DSH)
+Dog,Parker,Parker,11,Goldendoodle
+Dog,Captain Avro Clarence,Avro,6,Schnauzer
+Dog,Carlene,Weentz,4,Mutt
+Dog,Linda,Linda,10,West Highland Terrier
+Cat,Stellabella,Stella,7,Tortie
+Dog,Toby Wooferton,Toby,18,Some Hybrid
+Dog,Sacha,Fjollehoved (Danish for goofball) ,13,Golden Retriever
+Cat,Ponce de Leon,Ponce ,7,Domestic shorthair
+Dog,Snickers,Snicks,14,Labradoodle
+Cat,Echo,Echo,12,
+Cat,Tiga,Tiga ,7,Domestic shorthair
+Dog,Sherlock Bones,Sherlock,4,Some Hybrid
+Dog,Irene Adler,Addie,8,Bulldog
+Cat,Bloo,Bloo,11,
+Dog,Wallace,Wally ,2,Labradoodle
+Dog,Dude,Handsome,2.5,Labrador Retriever
+Cat,Mitten,Tuna,13,
+Dog,Bailey,Bailey,9,Golden Retriever
+Dog,Willow,Sweetie,6,Labrador Retriever
+Dog,Philistine Smoosh,Bill,14,Jack Russell Terrier
+Cat,Kitty Cat,KC,13,Unknown
+Cat,Elvis,Tubby,12,Siamese
+Dog,Henry Nacho,Henny,8,Golden Retriever
+Dog,Maximilian Kolby,Maxy ,16,Golden Retriever
+Dog,Argos,Argos,6,Some Hybrid
+Ferret,Buttercup,Butter,Unknown,
+Elephant ,Jumbo,Jumbo,19,Loxodon
+Dog,Madeline Grace,Ma ma ,15,Golden Retriever
+Dog,Elvis,Elvis,11,Cockapoo
+Dog,Coconut Butter,Coco,5,Some Hybrid
+Dog,Lucy-fur,Lucy,12,Golden Retriever
+Dog,Sophie Grace,Soph,13,Brindle Black
+Dog,Prince,Prince,14,Poodle
+Dog,---,,Unknown,Some Hybrid
+Dog,Jackson Buttsickle,Jacks,4,Some Hybrid
+Dog,Lassie,Lass Lass,14,Moth Eaten Carpet
+Dog,Charles Xavier II,Charlie,4,Great Pyreness
+Cat,GingerSnapz C. Cat,GingerSnapz,7,Domestic shorthair
+Dog,Caroline,Caroline,8,Purebred Alabama Mutt
+Cat,Shadow,Shadow,11,
+Cat,Murray 2,Murray,7,
+Dog,Beau,Goomby,4,Golden Retriever
+Unknown,, Mr. Beauregard,Unknown,
+Dog,Lindon,Lindy loo,10,Some Hybrid
+Cat,Marilyn,Chirp,5,Orange
+Unknown,, Pumpkin Pie,Unknown,
+Cat,, Meow Meow,Unknown,
+Dog,Tedward,Teddy,4,Some Hybrid
+Dog,Zuzu,Zu,4,Some Hybrid
+Dog,Marcus Brutus,Brutus,4,Boxer
+Cat,Charlie Chaplin ,Charlie,1,
+Cat,Molly Tigerlily,Molly,1,
+Cat,Britannia,Brit,10,
+Dog,Brownie Leigh,Brownie ,3,Golden Shepherd
+Dog,Jersey Girl,Jersey ,11,Some Hybrid
+Dog,Stella,Stells,10,Goldendoodle
+Dog,Lizzie,Lizzie Pie,6,Some Hybrid
+Cat,Marby,Beanie baby,14,American shorthair
+Dog,Roxy,Roxy Socks,1,Mutt
+Dog,Coco Murfree,Coco,9,Border Collie
+Dog,Ozzy,Ozlet,1,Mini Australian Shepard
+Dog,Winston Pigaloo,Winston or Lewis,6,Pug
+Dog,Noodle,Noodle / Weenie,13,Weiner Dog
+Dog,Phantom,Phantom ,5,Staffordshire pit bull
+Dog,Ellen Park,Ellen,3,Greyhound
+Cat,Meredith,Mer,1,Domestic shorthair
+Cat,Brennan Zachary,Punkin butt,8,Domestic shorthair
+Fish,Fishy,Fishy,18,Unknown
+Dog,Spud,Schmoops ,1.5,Pembroke Welsh Corgi
+Dog,FN 2187,Finn,1.5,Goldendoodle
+Cat,Frank En Stein  ,Frank,8,Maine Coon
+Dog,Pisco,Pisco,5,German Wirehaired Pointer
+Dog,Sadie,Sadie,3,GSD
+Dog,Lola,Loli Ravioli ,0.75,Golden Retriever
+Dog,Addie Heart,Addie,8,Some Hybrid
+Dog,Ernie,Ernburn,1,Unknown
+Unknown,, Erndog,Unknown,
+Unknown,, Ernieworm ,Unknown,
+Chinchilla,Milo Chicken Nugget,Milo,0.5,
+Cat,Melon,Mel,3,black
+Dog,Semaj,Sammich,4,Shih Tzu
+Unknown,, Dumbledork,Unknown,
+Dog,Maya,Little Miss Maya,8,Shih Tzu
+Unknown,, Diva,Unknown,
+Dog,Bijou,Bijou,12,Some Hybrid
+Dog,Pesto,Pesto,0.75,Beagle
+Dog,Maggie ,Magz,Unknown,Some Hybrid
+Cat,Doctor snuggles von fluffybottom,Doc,6,
+Dog,Toby,Toby,1,Golden Retriever
+Dog,Jacob Marley,Jake,6,Golden Retriever
+Cat,dixie,potato,11,fluffy
+Dog,Cujo,Bubby,11,Cocker Spaniel
+Cat,Finn,Finnard  ,9,Long haired
+Dog,Maizie,Maizie,0.33,Miniature schnauzer
+Dog,Bruce D4,Bruce,12,Dachshund
+Dog,Jackie Kate,Jackie,5,Some Hybrid
+Dog,Daisy Bear,Daisy or Bear,2.5,German Shepherd
+Gecko,Donut,Donut,5,Crested Gecko
+Fish,Whiskers Goldie-the-Goldfish Sweetie,Whiskies,2,Betta fish
+Dog,Tinker Stinker,Stinks,2.5,German Shepherd
+Cat,Vinnie,Huggiebear Biden,4,n/a
+Cat,Watson,Dr. Watson,8.5,Tabby
+Cat, Crick (I have two cats), Dr. Crick,8.5,grey cat
+Dog,Mile High Ice Storm,Miles,7,Golden Retriever
+Dog,Breezy Bear,Breezy,1,Golden Retriever
+Dog,Nara,Gorda,3,Australian Cattle Dog
+Dog,Wyatt Daniel,Wyatt,2,Pembroke Welsh Corgi
+Unknown, the Wild Corgo,,Unknown,
+Dog,---,Petra,Unknown,Golden Retriever
+Fish,Waffle,Waffle,2,Betta fish
+Dog,Rosie,Rosie,10,Walker Hound
+Dog,Lilly,Lilly,10,German Shepherd
+Dog,Charles,Charles,12,Miniature schnauzer
+Dog,Pippa,Pip,11,Goldendoodle
+Dog,Oliver,Ollie,7,Jack Russell Terrier
+Dog,Kiku,Kiku,3,Mutt
+Dog,Brandy,Brenda,10,Havanese
+Dog,Bobby,bobkin,8,Shih Tzu
+Dog,Emma,Emma,12,Some Hybrid
+Dog,Bessy,Bess,10,Labrador
+Cat,Romanovski ,Romi ,5,Domestic shorthair
+Cat,Fifi La Pou,Fifi,2,Domestic Long hair
+Cat,Georgie Porgie,Georgie / Saucy ,1,Domestic shorthair
+Dog,Dakota,Woobis,13,Some Hybrid
+Unknown,, Woobie,Unknown,
+Dog,Altrichter,Cooper,9,Golden Retriever
+Dog,Tucker,Tuck,7,Golden Retriever
+Cat,Milo,Milo,13,Tabby
+Fish,Pepperwood,Pepperwood,1,Betta fish
+Cat,Jameson Chewbacca ,Jamie,15,American shorthair
+Dog,Penny Bellew,Penny,6,Labrador
+Cat,Buddy,Buddy,2,
+Cat,Cat Jenkins,Cat,2,
+Cat,Crouton,Crouton,3,
+Dog,Morena,Morena,2,Corgi
+Cat,Samus Aran,Samus,14,Tabby
+Dog,Brownie,Bub,13,Maltipoo
+Dog,Mose Schrute,Mose,2,German Shepherd
+Dog,Rocky,Rocky,6,Corgi
+Cat,Rosalind Franklin ,Rosie,1,
+Cat,Harley quinn,Baby Kitty,5,
+Fish,Sushi,Sushi,2,Betta fish
+Cat,Mister Beans,Mister beans/ beans/ beansy boi,10,Grey domestic short hair
+Fish,Lord Baphomet: Destroyer of Worlds,Baphomet,Unknown,Goldfish
+Dog,Tyler John (had to give him a middle name for when he was in trouble),Ty,12,Rhodesian Ridgeback
+Cat,Adanac,Chunky,2,American shorthair
+Cat,Callister,Callibean,2,American shorthair
+Dog,Tux,Tux,9,Some Hybrid
+Dog,Ruby,Ruby,3,Corgi
+Dog,Pooch-K,Pooch-k the pooch,7,Mutt
+Dog,Scooby,Scoobers,0.58,Mutt
+Cat,Dwayne,Mr. Baby Dwayne,3,American shorthair
+Unknown,, Dwaniel,Unknown,
+Unknown,, Bub,Unknown,
+Cat,Alice,Spippy,11,American shorthair
+Unknown,, Speeps,Unknown,
+Cat,,Cat,Unknown,
+Dog,Lloyd,Lloyd,11,Golden Retriever
+Cat,Bo Schembeckler,Kitty,15,Shorthair
+Dog,Ishka,Ish/Ishka,8,Golden Retriever
+Dog,Millie,Millie,15,Border Collie
+Dog,Rossa,Ross,5,Golden Retriever
+Unknown,, Rossy,Unknown,
+Unknown,, Rossapoo,Unknown,
+Dog,Wookie,Wookie,7,Goldendoodle
+Dog,Tucker,Tucker,2,Labrador
+Dog,Keifer,Keifer,14,Labrador
+Dog,Frankie,Frankie,7,Some Hybrid
+Cat,Tenzing,Tenzing,12,Shorthair cat
+Dog,Sammy,Sam,5,Jack Russell Terrier
+Dog,Barrett,Barrett,3,German Shepherd
+Dog,Benjamin,Benj,2,Border Collie
+Dog,Laney,Laney,12,Golden Retriever
+Dog,Dixie,Lady,3,American Pitbull
+Dog,Diesel,Diesel,3,Some Hybrid
+Hamster,Hamtaro ,Hamtaro,Unknown,
+Dog,Baxter,Baxter,7.5,Golden Retriever
+Dog,Riley Marie,Riley,13,Cocker Spaniel
+Dog,Reginald Fonzerelli Hawkes,Reg,12,Goldendoodle
+Cat,Molly,Molly,6,
+Cat,Kevin,Booboo,3,
+Dog,Erik,Earwig,4,Wirehaired dachshund
+Dog,Oliver,Oli ,8,Jack Russell
+Spiney leaf insect,Thing one,Her,1,
+Dog,Bilbo Spud Doggins,Bilbo,5,Some Hybrid
+Dog,Bailey Woofer,Bailey,13,Cocker Spaniel
+Cat,Roy lee laramie ,Roy ,10,
+Cat,Petunia,Tuney,8,
+Dog,Skyy like the vodka,Skyy,3,Husky
+Gecko,Stubbs,Stubs,15,Leopard gecko
+Dog,Malibu like the rum,Malibu,1,Golden Retriever
+Dog,Golden Tate,Tate ,2,Golden Retriever
+Dog,Bear,Bear,0.58,Labrador Retriever
+Dog,Stanley,Stan,0.5,Miniature schnauzer
+Cat,Coco,Coco,4,Shorthair
+Dog,Andromeda Mae,Andie,6,Goldendoodle
+Dog,Eloise Gertrude,Ellie,2,Labradoodle
+Dog,Lady Bonnie of Coventry,Bonnie,8,Some Hybrid
+Cat,Ophelia Marie KitKat Mcdougle Oâ€™Malley Jr. ,Ophelia,9,
+Cat,Sie Isaac Newton ,Newton,16,
+Cat,Black Cat,BC,3,
+Dog,Gibson,Gibby,2.5,Some Hybrid
+Dog,Brewskie,Brew,11,Pug
+Cat,Wolfgang Motzart,Wolfie,7,American shorthair
+Dog,Koli,Koli,11,Some Hybrid
+Dog,Moxie Jean Narice,Moxie,1,German Shepherd
+Dog,Dancer Pants,Dancer,17,Havanese
+Cat,Kitty or The Cat (if she's being bad) ,Kitty,1,
+Fish,Blueberry,Blue,0.5,Betta fish
